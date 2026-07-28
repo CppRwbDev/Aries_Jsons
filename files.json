@@ -1,13 +1,5 @@
 [
     {
-        "path": "Download/samp-cache-lite.7z",
-        "md5": "6320a69acd5b16fb0b20c77729def027"
-    },
-    {
-        "path": "Download/samp-extras.7z",
-        "md5": "10e21e6765d2c7a7010579ef894392b6"
-    },
-    {
         "path": "GTASAMP10.b",
         "md5": "ae2bb244dd98614bf67f05142e2c2577"
     },
@@ -38,10 +30,6 @@
     {
         "path": "Text/russian.gxt",
         "md5": "68f489672ba229e40b4d505d4db2015f"
-    },
-    {
-        "path": "gtasatelem.set",
-        "md5": "812d35b0f0349bd23b216a98c2464d5e"
     },
     {
         "path": "audio/SFX/PAIN_A.osw.idx",
@@ -262,14 +250,6 @@
     {
         "path": "anim/ped.ifp",
         "md5": "4736b2c90b00981255f9507308ee9174"
-    },
-    {
-        "path": "fonts/gtaweap3.ttf",
-        "md5": "11eabca2251325cfc5589c9c6fb57b46"
-    },
-    {
-        "path": "fonts/arial_bold.ttf",
-        "md5": "11eabca2251325cfc5589c9c6fb57b46"
     },
     {
         "path": "SAMP/vehicles.ide",
@@ -734,10 +714,6 @@
     {
         "path": "texdb/SAMPCOL.img",
         "md5": "1830ffedfc451c75aef2dea949d02cb5"
-    },
-    {
-        "path": "gta_sa.set",
-        "md5": "83c8c48aa3649954553f3a5a7b7b48b4"
     },
     {
         "path": "data/TouchDefaultTablet4x3.cfg",
