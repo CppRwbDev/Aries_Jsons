@@ -5,12 +5,12 @@
          "URL_SERVERS": "https://raw.githubusercontent.com/CppRwbDev/Aries_Jsons/main/servers.json",
          "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/CppRwbDev/Aries_Jsons/main/files.json",                                                
          "URL_VK": "http://vk.com/",                                                                                                                                                                                     
-         "URL_SITE": "http://",                                                                                                                                                                                          
-         "URL_TECH_SUPPORT": "http://vk.com/",                                                                                                                                                                           
+         "URL_SITE": "https://t.me/UZBEKISTAN_RP1",                                                                                                                                                                                          
+         "URL_TECH_SUPPORT": "https://t.me/UZBEKISTAN_RP1",                                                                                                                                                                           
          "URL_YOUTUBE": "http://www.youtube.com/channel/",                                                                                                                                                               
          "URL_DISCORD": "http://discord.gg/",                                                                                                                                                                            
-         "URL_TELEGRAM": "http://t.me/",                                                                                                                                                                                 
-         "URL_FORUM": "http://",                                                                                                                                                                                         
-         "URL_DONATE": "https://ru-state.online/donate/",                                                                                                                                                                
-         "URL_CLIENT": "http://65.21.98.47/client.apk"                                                                                                                                                                   
+         "URL_TELEGRAM": "https://t.me/UZBEKISTAN_RP_1",                                                                                                                                                                                 
+         "URL_FORUM": "https://t.me/UZBEKISTAN_RP1",                                                                                                                                                                                         
+         "URL_DONATE": "https://t.me/rwbdev",                                                                                                                                                                
+         "URL_CLIENT": "http://rwbdev.uz/launchrr.apk"                                                                                                                                                                   
      }   
