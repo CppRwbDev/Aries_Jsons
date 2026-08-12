@@ -354,5 +354,6 @@
 {"path":"Textures/fonts/JapaneseFont.met","size":"a69f4a58899fb9b4696da22a4c4aa14b"},
 {"path":"Textures/fonts/JapaneseFont.png","size":"0fe532b0f792714fe5ea965d2ace9482"},
 {"path":"Textures/fonts/RussianFont.met","size":"ea75831cddeee4b4a9ed092e6407432c"},
-{"path":"Textures/fonts/RussianFont.png","size":"190da2434f90e7b96cea7cfc80ae03b0"}
+{"path":"Textures/fonts/RussianFont.png","size":"190da2434f90e7b96cea7cfc80ae03b0"},
+{"path":"texdb/CARS.IMG","size":"af1e137e8e1a3d75c8c4371cb240d775"}
 ]

@@ -1410,5 +1410,9 @@
   {
     "path": "stream.ini",
     "md5": "05b6fdb1ff98a4ec75a58536a0c47b5e"
+  },
+  {
+    "path": "texdb/CARS.IMG",
+    "md5": "af1e137e8e1a3d75c8c4371cb240d775"
   }
 ]
