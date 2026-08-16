@@ -249,7 +249,7 @@
   },
   {
     "path": "SAMP/vehicles.ide",
-    "md5": "7c26b6e26f3a67ff2b88c6e028015c37"
+    "md5": "802165bc83dfb6141083acf9c2b232f5"
   },
   {
     "path": "SAMP/tracks4.dat",
@@ -445,7 +445,7 @@
   },
   {
     "path": "texdb/samp.img",
-    "md5": "9000384ceb41bd3bed0ec767d5a31e41"
+    "md5": "919c7d8131ed52997b9905735fdc9bf4"
   },
   {
     "path": "texdb/player.img",
@@ -1405,6 +1405,6 @@
   },
   {
     "path": "texdb/CARS.IMG",
-    "md5": "7fd0988b5bbb3cee65c24a9662e4b81d"
+    "md5": "6edf9ca4f3501fc57cef2e29280c5f89"
   }
 ]
