@@ -249,7 +249,7 @@
   },
   {
     "path": "SAMP/vehicles.ide",
-    "md5": "802165bc83dfb6141083acf9c2b232f5"
+    "md5": "b8f42d86325b19cd5d240787e34d584b"
   },
   {
     "path": "SAMP/tracks4.dat",
@@ -445,7 +445,7 @@
   },
   {
     "path": "texdb/samp.img",
-    "md5": "919c7d8131ed52997b9905735fdc9bf4"
+    "md5": "a58ed64d9eb47a2cef0aba6b20a19e2e"
   },
   {
     "path": "texdb/player.img",
@@ -1402,9 +1402,5 @@
   {
     "path": "data/procobj.dat",
     "md5": "7229fa03d65f135bd569c3692d67c4b3"
-  },
-  {
-    "path": "texdb/CARS.IMG",
-    "md5": "6edf9ca4f3501fc57cef2e29280c5f89"
   }
 ]

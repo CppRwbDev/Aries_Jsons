@@ -254,7 +254,7 @@
 {"path":"SAMP/TIMECYC.DAT","size":"d66a121bc8f17a5b69e34b841744956c"},
 {"path":"SAMP/tracks2.dat","size":"cfcd208495d565ef66e7dff9f98764da"},
 {"path":"SAMP/tracks4.dat","size":"cfcd208495d565ef66e7dff9f98764da"},
-{"path":"SAMP/vehicles.ide","size":"802165bc83dfb6141083acf9c2b232f5"},
+{"path":"SAMP/vehicles.ide","size":"b8f42d86325b19cd5d240787e34d584b"},
 {"path":"SAMP/WEAPON.dat","size":"0a9bb49003680364f9f9768e9bcea982"},
 {"path":"texdb/cutscene.img","size":"47ed437d63709bc3b194a5781fd1b9d6"},
 {"path":"texdb/gta3/gta3.dxt.dat","size":"bcb8dd6fa9f484225aff9d72438ddf40"},
@@ -314,7 +314,7 @@
 {"path":"texdb/player/player.txt","size":"53712a52f9a98a3224207a9b67788b83"},
 {"path":"texdb/SAMPCOL.img","size":"1830ffedfc451c75aef2dea949d02cb5"},
 {"path":"texdb/SAMP.ide","size":"5a36a5df8dfcab05900c38d75acaf594"},
-{"path":"texdb/samp.img","size":"919c7d8131ed52997b9905735fdc9bf4"},
+{"path":"texdb/samp.img","size":"a58ed64d9eb47a2cef0aba6b20a19e2e"},
 {"path":"texdb/samp/samp.dxt.dat","size":"ee033253fa85c99fca09befa45b293cc"},
 {"path":"texdb/samp/samp.dxt.tmb","size":"89a5bdc2d75e363c274fb0d8c8674e52"},
 {"path":"texdb/samp/samp.dxt.toc","size":"aca896744957687cca06a6b743713743"},
@@ -354,6 +354,5 @@
 {"path":"Textures/fonts/JapaneseFont.met","size":"a69f4a58899fb9b4696da22a4c4aa14b"},
 {"path":"Textures/fonts/JapaneseFont.png","size":"0fe532b0f792714fe5ea965d2ace9482"},
 {"path":"Textures/fonts/RussianFont.met","size":"ea75831cddeee4b4a9ed092e6407432c"},
-{"path":"Textures/fonts/RussianFont.png","size":"190da2434f90e7b96cea7cfc80ae03b0"},
-{"path":"texdb/CARS.IMG","size":"6edf9ca4f3501fc57cef2e29280c5f89"}
+{"path":"Textures/fonts/RussianFont.png","size":"190da2434f90e7b96cea7cfc80ae03b0"}
 ]
