@@ -220,6 +220,10 @@
     "md5": "4f15962340d51394d47a60e11cdbb608"
   },
   {
+    "path": "gta3.ini",
+    "md5": "a0dfc66d81ff35239f713e9271eb5a10"
+  },
+  {
     "path": "models/effects.fxp",
     "md5": "94babd9e6ec73bf5d9926e041e708c4f"
   },
@@ -249,7 +253,7 @@
   },
   {
     "path": "SAMP/vehicles.ide",
-    "md5": "b8f42d86325b19cd5d240787e34d584b"
+    "md5": "15bea7d63a16286ab282fccadfe694e4"
   },
   {
     "path": "SAMP/tracks4.dat",
@@ -1402,5 +1406,9 @@
   {
     "path": "data/procobj.dat",
     "md5": "7229fa03d65f135bd569c3692d67c4b3"
+  },
+  {
+    "path": "stream.ini",
+    "md5": "05b6fdb1ff98a4ec75a58536a0c47b5e"
   }
 ]
