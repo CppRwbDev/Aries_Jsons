@@ -12,10 +12,6 @@
     "md5": "0a9bb49003680364f9f9768e9bcea982"
   },
   {
-    "path": "SAMP/crash_log.log",
-    "md5": "31ef300cf0614427fec5ac860b2c1e8e"
-  },
-  {
     "path": "SAMP/fonts/Geometria-Bold.ttf",
     "md5": "1e6ae1eead98df0dadce3c7f6b10aefc"
   },
@@ -80,16 +76,8 @@
     "md5": "4736b2c90b00981255f9507308ee9174"
   },
   {
-    "path": "SAMP/samp_log.txt",
-    "md5": "315de4b79f369a93c753139a8318f248"
-  },
-  {
     "path": "SAMP/script.img",
     "md5": "6e142bb5dd5ec20af8fbd63f9ad4b457"
-  },
-  {
-    "path": "SAMP/settings.ini",
-    "md5": "a854c6cef203c90c58a535cb62f442c5"
   },
   {
     "path": "SAMP/tracks2.dat",
@@ -1058,14 +1046,6 @@
   {
     "path": "data/weapon.dat",
     "md5": "28f518b60b7b77bbe6d7cbe3fad594c2"
-  },
-  {
-    "path": "gta_sa.set",
-    "md5": "c8c961c769aaef550451c414bb4fdb62"
-  },
-  {
-    "path": "gtasatelem.set",
-    "md5": "89216cb48f4c7332a643c18fea5ba056"
   },
   {
     "path": "models/coll/peds.col",
