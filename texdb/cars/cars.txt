@@ -1,0 +1,144 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
+"cybertruck_misc" width=256 height=256 img=b7e07490 alphamode=2
+"remap" width=1024 height=1024 img=c18c76e8
+"leftflash" width=64 height=64 img=96f454bd
+"rightflash" width=64 height=64 img=96f454bd
+"cybertruck_screen" width=512 height=256 img=e6c6c850
+"cybertruck_offroad" width=512 height=256 img=558b387b
+"rim_tire_08" width=512 height=512 img=952f7f3d
+"rim_tire_09" width=512 height=512 img=474a0362
+"palette_2" width=256 height=256 img=a0247582 alphamode=2
+"carcamera" width=64 height=64 img=ee6faa57 alphamode=2
+"shared_car_chassis_d" width=512 height=1024 img=d702e27d
+"lights_cata_1_red" width=256 height=256 img=b6e7a813
+"carpet_3_black" width=256 height=256 img=c2cb3cf0 alphamode=2
+"seatbelt" width=128 height=64 img=83c7dc69
+"mirror" width=256 height=128 img=ec17cff8
+"alcantara_3_dark" width=256 height=256 img=ba2f6d2d
+"lights_numplate_1" width=128 height=64 img=03afd1bb
+"leather_1_color" width=256 height=256 img=2945bc3f
+"leather_1_black" width=256 height=256 img=98e2c65b alphamode=2
+"leather_1_perforation_1" width=256 height=256 img=3779914a
+"screw_1" width=64 height=64 img=71fd04ab alphamode=2
+"capsule_1" width=256 height=128 img=790407a6 alphamode=2
+"lights_cata_1_orange" width=256 height=256 img=2957a037
+"screw_1_dark" width=64 height=64 img=b259a509 alphamode=2
+"pered_steklo" width=8 height=8 img=190a55ad
+"zad_steklo" width=8 height=8 img=190a55ad
+"bonnetback_4" width=256 height=256 img=c5e8ae25
+"dm_no" width=512 height=128 img=bf0926ab
+"lights_misc_6" width=256 height=32 img=9899266b
+"lob_steklo" width=8 height=8 img=190a55ad
+"badge_ind" width=256 height=256 img=d1c38b80
+"remap_chrome" width=256 height=256 img=6bf79e42
+"jeepzj_turnlights" width=256 height=128 img=9a33c43f
+"jeepzj_interior_1" width=512 height=512 img=7d663ce2
+"jeepzj_interior_2" width=512 height=512 img=7bfd96d7
+"jeepzj_interior_3" width=512 height=256 img=e6886a8a
+"jeepzj_interior_4" width=512 height=512 img=1a459715
+"jeepzj_lights_1" width=256 height=256 img=265a893b
+"jeepzj_lights_2" width=256 height=256 img=cd4a774f
+"jeepzj_rim" width=512 height=512 img=858fdcb7
+"jeepzj_roof" width=256 height=256 img=55f43e3f
+"rim_tire_03" width=512 height=512 img=99640886
+"rim_brake_3" width=256 height=256 img=c3cb1cfe
+"shared_rim_misc_1" width=128 height=128 img=26088108
+"carpet_1_black" width=256 height=256 img=039ec904
+"cloth_3" width=256 height=256 img=5e091649 alphamode=2
+"ridges_2" width=128 height=128 img=1ca9bcb8 alphamode=2
+"shared_car_enginebay_1" width=1024 height=1024 img=65876667
+"lights_boxy_1" width=128 height=128 img=dab78504
+"lights_boxy_1_orange" width=128 height=128 img=1d5b1e48
+"lights_reflector_4" width=256 height=128 img=5e0aa84a
+"shared_car_chassis_a" width=512 height=1024 img=1f1632d0 alphamode=2
+"key_2" width=128 height=128 img=8fd48b1f alphamode=2
+"grille1_d" width=64 height=64 img=65eaf589
+"lights_reflector_8" width=256 height=128 img=bf7ea17c
+"vwscirocco_guage_1" width=512 height=256 img=c67594f2
+"vwscirocco_guage_2" width=256 height=256 img=95c05065
+"vwscirocco_guage_3" width=128 height=128 img=735d717d
+"vwscirocco_int_alpha_1" width=512 height=512 img=3ce1e4a4 alphamode=2
+"vwscirocco_lights" width=512 height=512 img=985f3195
+"vwscirocco_engine" width=512 height=512 img=4e6fde28
+"vwscirocco_lights_rb" width=128 height=128 img=7370ce62
+"chrome_rgb" width=64 height=64 img=fdeeeff3
+"rim_tire_02" width=512 height=512 img=a3f5698b
+"badge_vw_2" width=256 height=256 img=6adee17f
+"cloth_1" width=256 height=256 img=414facf1 alphamode=2
+"cloth_10" width=256 height=256 img=3b7482dd
+"leather_2_black" width=256 height=256 img=6a15b332 alphamode=2
+"pyramid" width=32 height=32 img=4b68217c
+"speaker_2" width=128 height=128 img=1293431f alphamode=2
+"display_carplay_1" width=512 height=256 img=12aa39ae
+"badge_vw_1" width=256 height=256 img=5a831578 alphamode=2
+"badge_airhorn_1" width=128 height=128 img=6510f298 alphamode=2
+"stitch_2_white" width=64 height=64 img=98f51fe4 alphamode=2
+"stitch_1_white" width=64 height=64 img=edfd33ef alphamode=2
+"stitch_3_white" width=64 height=64 img=a806b1aa alphamode=2
+"capsule_2" width=128 height=64 img=ed910883 alphamode=2
+"screw_4" width=64 height=64 img=919a1a7a alphamode=2
+"grille7_d" width=256 height=256 img=ab967ca2
+"bonnetback_3" width=256 height=256 img=82180f14
+"euros86speca" width=64 height=64 img=d51d0d98
+"badge_1" width=512 height=512 img=334ec90d alphamode=2
+"stitch_8_white" width=128 height=128 img=5cbd7d59 alphamode=2
+"lights_1" width=512 height=512 img=75234e28
+"badge_3" width=128 height=256 img=1753a73c
+"engine_evo" width=256 height=256 img=9baeac4b
+"boot_lam" width=512 height=256 img=aa3cbfa7
+"plastic_texture" width=256 height=256 img=e993b704
+"alcantara_1_dark" width=256 height=256 img=59f78214
+"badge_lambo_1" width=128 height=128 img=d981730e
+"carbon_d" width=128 height=128 img=b028b5ad
+"guage_1" width=512 height=128 img=184512c0
+"guage_2" width=512 height=512 img=1c617bda
+"grille_1" width=128 height=128 img=1da06264 alphamode=2
+"remap_int" width=64 height=64 img=4b26ebe6
+"undercarriage_1" width=256 height=256 img=b75d24ea
+"leather_2_color" width=256 height=256 img=748cf262
+"grille_2" width=128 height=128 img=b4e5b6b2
+"carbon_p" width=256 height=256 img=e54c5656
+"rim_brake_1" width=128 height=128 img=ff4874bf
+"turnoff" width=128 height=64 img=e3dcf371
+"camry55v_rim" width=512 height=512 img=42b9ceab
+"camry55v_button" width=128 height=128 img=3a7bc56d
+"camry55v_gauges" width=512 height=256 img=791f35e8
+"camry55v_lights" width=256 height=256 img=dc914114
+"camry55v_symbols" width=512 height=512 img=2a6666ef alphamode=2
+"badge_toyota_1" width=256 height=256 img=ee1351f4 alphamode=2
+"lights_misc_10" width=256 height=64 img=f77f239d
+"lights_reflector_1" width=256 height=256 img=96674d3c alphamode=2
+"cloth_1_white" width=256 height=256 img=076d0610
+"lights_misc_4_red" width=256 height=64 img=180df719
+"plastic_2_black" width=256 height=256 img=74203575
+"seatbelt_2" width=128 height=256 img=2af43c65
+"display_pioneer_1" width=512 height=256 img=48024b59
+"pyramid_s" width=32 height=32 img=8dfd8af7
+"speaker_1" width=64 height=64 img=d8b163f9
+"wood_1" width=256 height=256 img=db4b09d8
+"mats_eva_2" width=256 height=256 img=c5ae25bf
+"dots" width=128 height=128 img=7543dc3c alphamode=2
+"leather_black_perf" width=128 height=128 img=a3dc70de alphamode=2
+"screw_2" width=64 height=64 img=d4857889 alphamode=2
+"lights_sphere_3" width=256 height=256 img=1b8e98ff
+"tchaser_badge_1" width=512 height=512 img=dd158a78 alphamode=2
+"tchaser_lights_1" width=256 height=128 img=97d94fea
+"tchaser_enginebay" width=512 height=256 img=522e2148
+"tchaser_lights_2" width=256 height=128 img=6665b54d
+"tchaser_lights_3" width=512 height=256 img=d9de7ec8
+"tchaser_lights_6" width=256 height=256 img=1f09228d
+"tchaser_lights_4" width=512 height=256 img=63a382d2
+"tchaser_lights_5" width=256 height=128 img=d49435d2
+"tchaser_rim" width=512 height=512 img=436cf341
+"tchaser_gauges" width=512 height=256 img=088a2449
+"grille6_d" width=64 height=64 img=d4de9008
+"shared_car_chassis_paint" width=512 height=1024 img=029f5f64
+"carbon_4" width=128 height=128 img=7658268c
+"cloth_2" width=256 height=256 img=aa11e79c alphamode=2
+"cloth_4_color" width=256 height=256 img=9545e949
+"key_1" width=128 height=128 img=adf67f84 alphamode=2
+"lights_int_roof_1" width=256 height=128 img=74b94a73
+"cloth_9" width=256 height=256 img=8f6da6df alphamode=2
+"palette" width=64 height=64 img=0ccd3e8b alphamode=2
+"lights_cata_3_red" width=64 height=64 img=00d3e61e
+"bonnetback_2" width=256 height=256 img=b560be3c
