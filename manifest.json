@@ -57,7 +57,7 @@
   },
   {
     "path": "SAMP/vehicles.ide",
-    "md5": "bdc3a0fced2402c5bc61585714457d4b"
+    "md5": "8e420e4f5d4565605dad9f87ea92f343"
   },
   {
     "path": "Text/american.gxt",
@@ -1478,5 +1478,53 @@
   {
     "path": "texdb/txd/txd.unc.tmb",
     "md5": "1d8f2b25561be4299fc49b856c628a3d"
+  },
+  {
+    "path": "texdb/mashinalar.img",
+    "md5": "b3369f5e3314a81ec21c1d595996d058"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.dxt.dat",
+    "md5": "8c87e0b4d447ffa23a826a5e80395b7a"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.dxt.tmb",
+    "md5": "3f4359f5f22551293df4bb6cfd067a08"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.dxt.toc",
+    "md5": "735522edbda9ac125d138b1d1b184374"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.etc.dat",
+    "md5": "8c87e0b4d447ffa23a826a5e80395b7a"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.etc.tmb",
+    "md5": "3f4359f5f22551293df4bb6cfd067a08"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.etc.toc",
+    "md5": "735522edbda9ac125d138b1d1b184374"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.pvr.dat",
+    "md5": "8c87e0b4d447ffa23a826a5e80395b7a"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.pvr.tmb",
+    "md5": "3f4359f5f22551293df4bb6cfd067a08"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.pvr.toc",
+    "md5": "735522edbda9ac125d138b1d1b184374"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.txt",
+    "md5": "b4074ccd3289a2a73e6be6747a061740"
+  },
+  {
+    "path": "texdb/mashinalar/mashinalar.unc.tmb",
+    "md5": "3f4359f5f22551293df4bb6cfd067a08"
   }
 ]
