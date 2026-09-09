@@ -1,1 +1,1562 @@
-[{"path": "GTASAMP10.b", "md5": "ae2bb244dd98614bf67f05142e2c2577"}, {"path": "SAMP/SAMP.ide", "md5": "5a36a5df8dfcab05900c38d75acaf594"}, {"path": "SAMP/TIMECYC.dat", "md5": "9e267deed214b45d133eabf72553d1f8"}, {"path": "SAMP/WEAPON.dat", "md5": "0a9bb49003680364f9f9768e9bcea982"}, {"path": "SAMP/colorcycle.dat", "md5": "736c48813e3a899edd76d9184e95564b"}, {"path": "SAMP/gta.dat", "md5": "d8caaaa7f4fff9e5c2703d6690f43771"}, {"path": "SAMP/handling.cfg", "md5": "6868accef933f1855ec28ce193a78159"}, {"path": "SAMP/main.scm", "md5": "c9ef3143ddc27b883a537d24cd90f1d8"}, {"path": "SAMP/peds.ide", "md5": "28ebe8711e4f25f06b0c950b2ef15317"}, {"path": "SAMP/script.img", "md5": "89a033d7aa51fef232d99fc8edabf384"}, {"path": "SAMP/timecyc.aaa", "md5": "e15f6d5a5e213de555be9826443bd5b2"}, {"path": "SAMP/timecycp.dat", "md5": "c91ce6b9f69578dc0fcd890f6147224c"}, {"path": "SAMP/vehicles.ide", "md5": "83fed89299b6c6f76de311c0213d2ff6"}, {"path": "Text/american.gxt", "md5": "cf4fcd00b079022b16eb6e1adaabecce"}, {"path": "Text/french.gxt", "md5": "f79a8f6ec49f847bf45dee426c52a56f"}, {"path": "Text/german.gxt", "md5": "69f0ff38312ab1499a1c8f16e07dc780"}, {"path": "Text/italian.gxt", "md5": "933dd2d158b6dab977874af84de23375"}, {"path": "Text/japanese.gxt", "md5": "71c045f080f549208c90f6ef23ac1ac9"}, {"path": "Text/russian.gxt", "md5": "d6679c31b955ea5f3da6389c1222038a"}, {"path": "Text/spanish.gxt", "md5": "63107f004ce488b37a6ec32483e219d7"}, {"path": "Textures/fonts/JapaneseFont.met", "md5": "a69f4a58899fb9b4696da22a4c4aa14b"}, {"path": "Textures/fonts/JapaneseFont.png", "md5": "0fe532b0f792714fe5ea965d2ace9482"}, {"path": "Textures/fonts/RussianFont.met", "md5": "ea75831cddeee4b4a9ed092e6407432c"}, {"path": "Textures/fonts/RussianFont.png", "md5": "190da2434f90e7b96cea7cfc80ae03b0"}, {"path": "anim/anim.img", "md5": "3359ba8cb820299161199ee7ef3f1c02"}, {"path": "anim/cuts.img", "md5": "47ed437d63709bc3b194a5781fd1b9d6"}, {"path": "anim/ped.ifp", "md5": "4736b2c90b00981255f9507308ee9174"}, {"path": "audio/CONFIG/AudioEventHistory.txt", "md5": "4f15962340d51394d47a60e11cdbb608"}, {"path": "audio/CONFIG/BankLkup.dat", "md5": "b45905c794677467644240aa9abc2f60"}, {"path": "audio/CONFIG/BankSlot.dat", "md5": "da40c568a349b58c78c2a8faf8da95a9"}, {"path": "audio/CONFIG/EventVol.dat", "md5": "d676adc31b1d0a95631451344892ddd2"}, {"path": "audio/CONFIG/PakFiles.dat", "md5": "db1e657a3baafbb86cd1b715c5282c66"}, {"path": "audio/CONFIG/SOUNDINF.DAT", "md5": "a220a41520d4c1e58c211835fbeca840"}, {"path": "audio/CONFIG/StrmPaks.dat", "md5": "6e65fd943ad6b0bbbc032e1f081ce699"}, {"path": "audio/CONFIG/TRKHEAD.DAT", "md5": "5f0d3c7295e8d1c7371fab89a6989723"}, {"path": "audio/CONFIG/TrakLkup.dat", "md5": "528e75d663b8bae072a01351081a2145"}, {"path": "audio/SFX/FEET.osw", "md5": "e96c0b200c3437c5088ff2bd5a9054d6"}, {"path": "audio/SFX/FEET.osw.idx", "md5": "11635b4690838fae6ab1082d30a93890"}, {"path": "audio/SFX/GENRL.osw", "md5": "49f36f13260ed27c40fbce4175706cd2"}, {"path": "audio/SFX/GENRL.osw.idx", "md5": "1430abad9623bcc316638c75017c1261"}, {"path": "audio/SFX/PAIN_A.osw", "md5": "6e2ec42799b7e6f366437e5cb4d04911"}, {"path": "audio/SFX/PAIN_A.osw.idx", "md5": "aeb673a62ca2b30244a049429b1e1265"}, {"path": "audio/SFX/SPC_EA.osw", "md5": "38566d34db5998efe01e6d5e87995a92"}, {"path": "audio/SFX/SPC_EA.osw.idx", "md5": "453ef009f31a04a77871fc22c9514082"}, {"path": "audio/SFX/SPC_FA.osw", "md5": "5094b9c78bac5a652f59106ab671eeb7"}, {"path": "audio/SFX/SPC_FA.osw.idx", "md5": "6388ea09cdc9b948a60594b8758a262e"}, {"path": "audio/STREAMS/AA.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/AA.osw.idx", "md5": "7d3d3960131764d70b1b268ee5d332f7"}, {"path": "audio/STREAMS/ADVERTS.osw", "md5": "4ded1e1f6d9b3917617d495f5d063a13"}, {"path": "audio/STREAMS/ADVERTS.osw.idx", "md5": "22e59aad9134b004dc4451ac31e123aa"}, {"path": "audio/STREAMS/AMBIENCE.osw", "md5": "83a80c9403ceffd1d9c225c300caec32"}, {"path": "audio/STREAMS/AMBIENCE.osw.idx", "md5": "f4713422eb3a13f8050fe963397cd454"}, {"path": "audio/STREAMS/BEATS.osw", "md5": "d04cd2d6190f1c39c1251a66a5651f14"}, {"path": "audio/STREAMS/BEATS.osw.idx", "md5": "6e46196fa8072de26401c08313b26b4b"}, {"path": "audio/STREAMS/CH.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/CH.osw.idx", "md5": "c73c042a6522b5a7d35d8e22333f0adb"}, {"path": "audio/STREAMS/CO.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/CO.osw.idx", "md5": "d876639142072405c9e3d74b80fc11bf"}, {"path": "audio/STREAMS/CR.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/CR.osw.idx", "md5": "4c6821f5770d5c5049b121c4eaca06e0"}, {"path": "audio/STREAMS/CUTSCENE.osw", "md5": "f0ba6914f2152e2eb98b0f18e6e6a40a"}, {"path": "audio/STREAMS/CUTSCENE.osw.idx", "md5": "1b2f53c874854fee1e8ad76ca1acc219"}, {"path": "audio/STREAMS/DS.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/DS.osw.idx", "md5": "545a2017199e4559c5c21718a9a9d2ac"}, {"path": "audio/STREAMS/HC.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/HC.osw.idx", "md5": "c512967bedfc33bc90fcf430af54f356"}, {"path": "audio/STREAMS/MH.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/MH.osw.idx", "md5": "018ad9b23fa611d6cc631f903fa95fbc"}, {"path": "audio/STREAMS/MR.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/MR.osw.idx", "md5": "ca335e98341486d7423dad1705b6c3fa"}, {"path": "audio/STREAMS/NJ.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/NJ.osw.idx", "md5": "8d9c6d51e2b6187a87d2151108333483"}, {"path": "audio/STREAMS/RE.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/RE.osw.idx", "md5": "aa9bc67d96f8b9440ac643df8abbf87f"}, {"path": "audio/STREAMS/RG.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/RG.osw.idx", "md5": "e801c09baf64a2944a0826933df3c271"}, {"path": "audio/STREAMS/TK.osw", "md5": "fc1179502b4313a197e05bc42e6005ba"}, {"path": "audio/STREAMS/TK.osw.idx", "md5": "b10ccdf74ab7e576e082ac6f13a893a1"}, {"path": "data/360Default1280x720.cfg", "md5": "561609b81469d3ac5dd7325ff388b8de"}, {"path": "data/360Default960x720.cfg", "md5": "cbd566273bb949526dd68f9cd6a34ad4"}, {"path": "data/Decision/Allowed/Cop.ped", "md5": "2b2456482e8719e8c64877070fecee7f"}, {"path": "data/Decision/Allowed/Fireman.ped", "md5": "99ef637f82455921c9572fede370e33b"}, {"path": "data/Decision/Allowed/GangMbr.ped", "md5": "cd6e25e2a07fa5e1cc2f0d952c51f3af"}, {"path": "data/Decision/Allowed/Indoors.ped", "md5": "5071731f4fd49d79b0562c7dec9a673b"}, {"path": "data/Decision/Allowed/MISSION.grp", "md5": "837dd1e06da29bf5d7210a9074164cf2"}, {"path": "data/Decision/Allowed/RANDOM.grp", "md5": "cda22c3bed5dd3742542084461082d24"}, {"path": "data/Decision/Allowed/RANDOM.ped", "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"}, {"path": "data/Decision/Allowed/RANDOM2.grp", "md5": "25cfafb3b7da432277bfa1291df4d58d"}, {"path": "data/Decision/Allowed/R_Norm.ped", "md5": "75d670db732344ec3f90e7db71b1e3a6"}, {"path": "data/Decision/Allowed/R_Tough.ped", "md5": "b3e4ca143c1bbcbf99ebf70ef95e7343"}, {"path": "data/Decision/Allowed/R_Weak.ped", "md5": "3cddd65754ad3c6ee8aec71b8a69b6c3"}, {"path": "data/Decision/Allowed/m_empty.ped", "md5": "149d0c778cab34b995d3958f44eeb18b"}, {"path": "data/Decision/Allowed/m_norm.ped", "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"}, {"path": "data/Decision/Allowed/m_plyr.ped", "md5": "50ec4c398f482bbe9428e1011b4bc0b2"}, {"path": "data/Decision/Allowed/m_steal.ped", "md5": "ea0e40c00071a4a9446c19b12bf5a035"}, {"path": "data/Decision/Allowed/m_tough.ped", "md5": "be9ea5daacc227b8383b9c84a5b3fa9b"}, {"path": "data/Decision/Allowed/m_weak.ped", "md5": "03dc3abafa80abec285adc0bddee6777"}, {"path": "data/Decision/PedEvent.txt", "md5": "e4fa5caa1558f2945294a3652e6f0cde"}, {"path": "data/ShopUVs.dat", "md5": "f40d7ce24ae1ceabb6fcb06646de31d1"}, {"path": "data/TouchDefaultPhone3x2.cfg", "md5": "b9de3eedeeceb8a95052f9935374cd33"}, {"path": "data/TouchDefaultPhoneWidescreen.cfg", "md5": "681f05aa17c658a568752a765e058150"}, {"path": "data/TouchDefaultTablet4x3.cfg", "md5": "37bdbe57243b101bfd2af3177a37ca9c"}, {"path": "data/TouchDefaultTabletWidescreen.cfg", "md5": "f15920204887f42b505458c5bfd85fef"}, {"path": "data/animgrp.dat", "md5": "6a484b0b2356c524207d939487f1bff1"}, {"path": "data/ar_stats.dat", "md5": "a98936b0f3523f23cad2eacc0eaf7a9b"}, {"path": "data/carcols.dat", "md5": "2b33843e79bd113873a5d0fb02157749"}, {"path": "data/cargrp.dat", "md5": "63138ab62a10428a7c88f0be8ece094d"}, {"path": "data/carmods.dat", "md5": "6cbe845361e76aae35ddca300867cadf"}, {"path": "data/clothes.dat", "md5": "8762637e580eb936111859ffa29bddb4"}, {"path": "data/colorcycle.dat", "md5": "736c48813e3a899edd76d9184e95564b"}, {"path": "data/default.dat", "md5": "8e133355396761bd5cd16bf873154b30"}, {"path": "data/default.ide", "md5": "5b6d75bae827e2d88f24f2be66a037bb"}, {"path": "data/fonts.dat", "md5": "dd73451954efe3f030c0da2ce9732d69"}, {"path": "data/furnitur.dat", "md5": "3199fc8b81a4c5334a497508fe408afd"}, {"path": "data/gridref.dat", "md5": "795a9c013ee683e286768e06e4a5e2d7"}, {"path": "data/gta.dat", "md5": "2d2e4f7f05e2d82b25c88707096d3393"}, {"path": "data/handling.cfg", "md5": "351ef92fc22fa3c1042dd26b1cd73a30"}, {"path": "data/info.zon", "md5": "7df10bed5404a2f7669cdfaa47b8b81b"}, {"path": "data/map.zon", "md5": "79d255c7a27bb49b50d680390e908e5a"}, {"path": "data/maps/Audiozon.ipl", "md5": "bc3d7fc5a6927b61c10acda92e7e20c0"}, {"path": "data/maps/LA/LAe.ide", "md5": "6f046fe75467807c612c7f5f0d9bc90f"}, {"path": "data/maps/LA/LAe.ipl", "md5": "fa95160d9826c195e1b9d5128c20b35f"}, {"path": "data/maps/LA/LAe2.ide", "md5": "b0c016f4d0c9a914894055787146eb0c"}, {"path": "data/maps/LA/LAe2.ipl", "md5": "ffa2c90e439f5bd7da317c1ad29a9495"}, {"path": "data/maps/LA/LAhills.ide", "md5": "7b9289601c4961f461dd1f2d8b2cc0fa"}, {"path": "data/maps/LA/LAhills.ipl", "md5": "4c30d0186a0c65d5be31f5a45965003a"}, {"path": "data/maps/LA/LAn.ide", "md5": "b24ce30c982c7bc5b8fafc58b97c0dd7"}, {"path": "data/maps/LA/LAn.ipl", "md5": "3f3a9e01ca47388ed62e7bd10527572f"}, {"path": "data/maps/LA/LAn2.ide", "md5": "b11043b49c9c71095a9cad47d81418cf"}, {"path": "data/maps/LA/LAn2.ipl", "md5": "dbcd933c5857dab676715b930f3eef1f"}, {"path": "data/maps/LA/LAs.ide", "md5": "f73f76648dc35e2b7eed800bcf699757"}, {"path": "data/maps/LA/LAs.ipl", "md5": "4540df6c3a170ab9b4ff3acce5a9674f"}, {"path": "data/maps/LA/LAs2.ide", "md5": "d6f69e02992be26e5606fe1b3d6c8be5"}, {"path": "data/maps/LA/LAs2.ipl", "md5": "cf63399c3f61e8a93e0e8dc7a09e766b"}, {"path": "data/maps/LA/LAw.ide", "md5": "b1537a83c3758ef87b219cd3dcd8c7e4"}, {"path": "data/maps/LA/LAw.ipl", "md5": "1bfe3e1fabd610dc76ab0b44e26dacc6"}, {"path": "data/maps/LA/LAw2.ide", "md5": "91ce9890027ca87158a5328417689004"}, {"path": "data/maps/LA/LAw2.ipl", "md5": "f220195b871833163f5c04856b03ae8d"}, {"path": "data/maps/LA/LAxref.ide", "md5": "142a27d9f570081e2378c45d1749d550"}, {"path": "data/maps/LA/LaWn.ide", "md5": "235545b8eb93dcffcb70c1dc2ff6d5fe"}, {"path": "data/maps/LA/LaWn.ipl", "md5": "0720120f5c025757ece1344df0d85a30"}, {"path": "data/maps/SF/SFSe.ide", "md5": "e153a491cd396f3ab0696107e053a32d"}, {"path": "data/maps/SF/SFSe.ipl", "md5": "b275b70372a6d91643e3f585325f8ddc"}, {"path": "data/maps/SF/SFe.ide", "md5": "9895ef705b1c3b6dee56cc0f613b4be9"}, {"path": "data/maps/SF/SFe.ipl", "md5": "da55b24ac305b2779f46cc1509f444d8"}, {"path": "data/maps/SF/SFn.ide", "md5": "27566b5a6dce82513cfdcf65c82ca958"}, {"path": "data/maps/SF/SFn.ipl", "md5": "a2133c436d46396b4e1511a33bcb8870"}, {"path": "data/maps/SF/SFs.ide", "md5": "5ff7f62b82d1c3e9cae944afbed0f6d0"}, {"path": "data/maps/SF/SFs.ipl", "md5": "518077ea0974332c8352eb9af931d197"}, {"path": "data/maps/SF/SFw.ide", "md5": "4103fe4fffa18c4845027fb3d7929296"}, {"path": "data/maps/SF/SFw.ipl", "md5": "e435f3d83ef4abcc4ce56c41767601ee"}, {"path": "data/maps/SF/SFxref.ide", "md5": "23b00cc73b9564f739730c61a232353d"}, {"path": "data/maps/country/countn2.ide", "md5": "a962748a2b61e10e927cb6238ef4df80"}, {"path": "data/maps/country/countn2.ipl", "md5": "0727df5077b9a6bb7e3e23c1c3990da9"}, {"path": "data/maps/country/countryN.ide", "md5": "ad384494c4d2d94683d2c51cef390395"}, {"path": "data/maps/country/countryN.ipl", "md5": "443490bda181e7f87e74fcc7704f2500"}, {"path": "data/maps/country/countryS.ide", "md5": "85792d5a12621e879cc59ed87db82480"}, {"path": "data/maps/country/countryS.ipl", "md5": "8d1bd4b5d337139ff3a953d44fc2b0e3"}, {"path": "data/maps/country/countryW.ide", "md5": "b8d0fdd9f7223ded76f4b5f6700fcb6f"}, {"path": "data/maps/country/countrye.ide", "md5": "6b46395e665582255b67b5082ad7f667"}, {"path": "data/maps/country/countrye.ipl", "md5": "5033cf4354baaad2a521031a1b318df0"}, {"path": "data/maps/country/countryw.ipl", "md5": "a46e0560ee61446cbb4d531d99dec553"}, {"path": "data/maps/country/counxref.ide", "md5": "67473a3c459f7b3998b498190b72cf62"}, {"path": "data/maps/cull.ipl", "md5": "7d723b80560f956bddb8d97ed66086b8"}, {"path": "data/maps/generic/barriers.ide", "md5": "d22010cd9522b19bf07efbc421872add"}, {"path": "data/maps/generic/dynamic.ide", "md5": "319e6aea03de0c05e075a1f15ed1ce8c"}, {"path": "data/maps/generic/dynamic2.ide", "md5": "84b33bece396644d2b197320d0ea9886"}, {"path": "data/maps/generic/multiobj.ide", "md5": "63d672310c0cf0efaa8b96c584dd407a"}, {"path": "data/maps/generic/procobj.ide", "md5": "bf592e31a663405116a68b63e7d2c49f"}, {"path": "data/maps/generic/vegepart.ide", "md5": "b9c84559de97b49ce2036498b3d504d5"}, {"path": "data/maps/interior/gen_int1.ide", "md5": "8cdc36bf580a82bf281c9d3a257d4742"}, {"path": "data/maps/interior/gen_int1.ipl", "md5": "eb13aff288ed3876354a326a22f29d93"}, {"path": "data/maps/interior/gen_int2.ide", "md5": "9b55e0b126ef22f3703b5ccf5bb1b174"}, {"path": "data/maps/interior/gen_int2.ipl", "md5": "5efb82b23a9462cbf4c1d0ba6dbc9fd4"}, {"path": "data/maps/interior/gen_int3.ide", "md5": "5119e846419e50bbc35bd57415d4376e"}, {"path": "data/maps/interior/gen_int3.ipl", "md5": "e14d644ed3a26d5711704f875f2c11e1"}, {"path": "data/maps/interior/gen_int4.ide", "md5": "16c7dba5af8ae61172599f29ed9dd6c0"}, {"path": "data/maps/interior/gen_int4.ipl", "md5": "339028d9c3aac53a8a28212179fced01"}, {"path": "data/maps/interior/gen_int5.ide", "md5": "1f183baa44e0b759c2917c34ac23d3b5"}, {"path": "data/maps/interior/gen_int5.ipl", "md5": "0acd219bca22d7cb8c8b50d738c3275c"}, {"path": "data/maps/interior/gen_intb.ide", "md5": "48a554b28c8045c21b6ed0905a76768f"}, {"path": "data/maps/interior/gen_intb.ipl", "md5": "663b75b0898db03687d5e6edb1d3b7f8"}, {"path": "data/maps/interior/int_LA.ide", "md5": "ee9a394ae0ce8cf6f77fb82c758d7c89"}, {"path": "data/maps/interior/int_LA.ipl", "md5": "2ae3c352e5de6e290dc631da053c5cfc"}, {"path": "data/maps/interior/int_SF.ide", "md5": "cdfdb64d5254a0fc689604d000d0e29c"}, {"path": "data/maps/interior/int_SF.ipl", "md5": "3e8cf0138f81f0c505f245e7bbff8b28"}, {"path": "data/maps/interior/int_cont.ide", "md5": "f811cdbcfd62ad7c8bf4be61c2d89855"}, {"path": "data/maps/interior/int_cont.ipl", "md5": "5331b6ee9cbf7a976f98dc2cce6992e3"}, {"path": "data/maps/interior/int_veg.ide", "md5": "3ffe6a366fcadba1a2fb3fb8166ceb31"}, {"path": "data/maps/interior/int_veg.ipl", "md5": "8d8030efa3a493324016a395fd180926"}, {"path": "data/maps/interior/propext.ide", "md5": "be0f534711073a19378cd30231b9d094"}, {"path": "data/maps/interior/props.ide", "md5": "b7ca66885d4fc34fe2f2083f8ed5d725"}, {"path": "data/maps/interior/props2.ide", "md5": "043a304b604db2e22d7464bcc36a41ce"}, {"path": "data/maps/interior/savehous.ide", "md5": "19af45eb13708b6b3ed9434a42e6a929"}, {"path": "data/maps/interior/savehous.ipl", "md5": "2e79a68217244d7d99f3790b63fe3267"}, {"path": "data/maps/interior/stadint.ide", "md5": "10953f74890c554dd368ff20bdbeac3d"}, {"path": "data/maps/interior/stadint.ipl", "md5": "242ece3c9c070faf6751e66bfb17531c"}, {"path": "data/maps/leveldes/leveldes.ide", "md5": "521496c7b8e148bf65e15a2eb9cffdba"}, {"path": "data/maps/leveldes/leveldes.ipl", "md5": "4276ccba517ef022c45b39608699a8af"}, {"path": "data/maps/leveldes/levelmap.ide", "md5": "8ea3bf7c907763418a32fd7b42249d96"}, {"path": "data/maps/leveldes/levelmap.ipl", "md5": "4fb15ec9a9bd76e47842e01cdefa2585"}, {"path": "data/maps/leveldes/levelxre.ide", "md5": "4dda3ffcee83f83ca554d85817e52198"}, {"path": "data/maps/leveldes/seabed.ide", "md5": "0779f538229decee62071e53f41d4b93"}, {"path": "data/maps/leveldes/seabed.ipl", "md5": "fbedb38d8860a71d63d30e4c0f458c86"}, {"path": "data/maps/occlu.ipl", "md5": "fbe5264b558576cff738291bc17a9c51"}, {"path": "data/maps/occluLA.ipl", "md5": "a355e96c0102c3187fe75da90572b3f2"}, {"path": "data/maps/occluint.ipl", "md5": "e89a5ae5ee074086862664b50f6881f5"}, {"path": "data/maps/occlusf.ipl", "md5": "9ac2fb7ddddfe7f71a4faad8f71a7b98"}, {"path": "data/maps/occluveg.ipl", "md5": "394dc4170c928d4227f9c0e185d51261"}, {"path": "data/maps/paths.ipl", "md5": "37426c7d5218aa13aaec2f582aaaabc4"}, {"path": "data/maps/paths2.ipl", "md5": "b38219724ec5eaa1dba1df4331389509"}, {"path": "data/maps/paths3.ipl", "md5": "1f5f7a824575552057fe7001c54c51a9"}, {"path": "data/maps/paths4.ipl", "md5": "73c948a8d373623524b4fca8a2b9c25a"}, {"path": "data/maps/paths5.ipl", "md5": "8f3d100baff8ee2088d0b74474175250"}, {"path": "data/maps/tunnels.ipl", "md5": "1438622c076f6122ff6cdd03241b638c"}, {"path": "data/maps/vegas/VegasN.ide", "md5": "6a35f16ac1b76f151be42c3860c81ffd"}, {"path": "data/maps/vegas/VegasS.ide", "md5": "ed0cca34a8fdc556a7ca835ee0923b58"}, {"path": "data/maps/vegas/VegasW.ide", "md5": "593313a65eb9f8905c61bd02296e4468"}, {"path": "data/maps/vegas/vegasE.ide", "md5": "be3e059ba348f994e320e1e366752031"}, {"path": "data/maps/vegas/vegasE.ipl", "md5": "ea279d9a9d6e3addb981b5186da91424"}, {"path": "data/maps/vegas/vegasN.ipl", "md5": "e6b6cc52ad19a5e93a45d659019f7b41"}, {"path": "data/maps/vegas/vegasS.ipl", "md5": "ce4cb524d5bee74bab77029e5541b1ae"}, {"path": "data/maps/vegas/vegasW.ipl", "md5": "43989ba645119a9b287fb0e3782245e7"}, {"path": "data/maps/vegas/vegaxref.ide", "md5": "61c9cd72a43ca6f34788c4bde736431e"}, {"path": "data/maps/vegas/vegaxref.ipl", "md5": "789520fd41a60f0067c802c6f00d021b"}, {"path": "data/maps/veh_mods/veh_mods.ide", "md5": "e5f05eea1d6fb145bfa0d5f9950ddd54"}, {"path": "data/melee.dat", "md5": "b2f05657980e4a693f8ff5eadcbad8f8"}, {"path": "data/object.dat", "md5": "46a5e7dff90078842e24d9de5e92cc3e"}, {"path": "data/paths/ROADBLOX.DAT", "md5": "2dbd1fa4fc98e4cd0d84e647b3a12fa6"}, {"path": "data/paths/carrec.img", "md5": "7f94ccaf1d647f581cce81a821dff2cb"}, {"path": "data/paths/tracks.dat", "md5": "16b7c65078f262893e18a5d626bbedbd"}, {"path": "data/paths/tracks2.dat", "md5": "f5c1f87d1ae814a12a2aeb51e4ef27e0"}, {"path": "data/paths/tracks3.dat", "md5": "fc3e3e450c92a0cdcdf6d5bf26dda212"}, {"path": "data/paths/tracks4.dat", "md5": "10066144ef14c40fff4d5bd3cc147360"}, {"path": "data/ped.dat", "md5": "67d960dde13228d4818e0f144adafe4e"}, {"path": "data/pedgrp.dat", "md5": "fa1731066423ba0c584e757eda946f15"}, {"path": "data/peds.ide", "md5": "f7dea69fa6ab973479b9ef0cf05d3d98"}, {"path": "data/pedstats.dat", "md5": "d722c90c92f3ad5c1b531596769f61cd"}, {"path": "data/plants.dat", "md5": "a2713338dbbd55898a4195e4464c6b06"}, {"path": "data/popcycle.dat", "md5": "a43f90361d1034c819a602171d8d66cb"}, {"path": "data/procobj.dat", "md5": "7229fa03d65f135bd569c3692d67c4b3"}, {"path": "data/shopping.dat", "md5": "c1086eb6c0bfa36845f2026b68519f14"}, {"path": "data/statdisp.dat", "md5": "3a6cabab2094de3e0b3810a40e24194c"}, {"path": "data/surface.dat", "md5": "9eb4e4e474abd5da2f3961a5ef549f9e"}, {"path": "data/surfaud.dat", "md5": "c32c586e8ba35742e356e6525619f7c3"}, {"path": "data/surfinfo.dat", "md5": "605dd0beabccc797ce94a51a3e4a09eb"}, {"path": "data/timecyc.dat", "md5": "623dd172ff6738250b68842516b75ada"}, {"path": "data/timecycp.dat", "md5": "c91ce6b9f69578dc0fcd890f6147224c"}, {"path": "data/txdcut.ide", "md5": "e3c231039048a30680b8f13fb51cc4ac"}, {"path": "data/vehicles.ide", "md5": "bdc3a0fced2402c5bc61585714457d4b"}, {"path": "data/water.dat", "md5": "690400ecc92169d9eaddaaa948903efb"}, {"path": "data/water1.dat", "md5": "16fe5a3e8c57d02eb62a44a96d8b9d39"}, {"path": "data/weapon.dat", "md5": "28f518b60b7b77bbe6d7cbe3fad594c2"}, {"path": "fonts/arial.ttf", "md5": "5995c725ca5a13be62d3dc75c2fc59fc"}, {"path": "fonts/arial_bold.ttf", "md5": "ce4244a1fb311a47a5949948b2dc4eab"}, {"path": "fonts/georgia.ttf", "md5": "ca8446d58eb8315c7a458caf81c6ed86"}, {"path": "fonts/gtaweap3.ttf", "md5": "b2138ac7ea85efb902618b3be5392ac1"}, {"path": "fonts/impact.ttf", "md5": "f12902024f7b77ee4c34557ee6f3818b"}, {"path": "fonts/palatino_linotype.ttf", "md5": "96261bb90c9babbf8042ce7f43200d65"}, {"path": "fonts/quartz_ms.ttf", "md5": "7df4d03e072bfaf9685f06ed5d179aff"}, {"path": "fonts/segoe_print.ttf", "md5": "d7abfa52675c67654ecc2a8213bc58ae"}, {"path": "fonts/segoe_script.ttf", "md5": "5c452fb7a0f5751f4e94e9d84eb01154"}, {"path": "fonts/tahoma.ttf", "md5": "013ec165105a40eb43bc1130d530bd1f"}, {"path": "fonts/webdings.ttf", "md5": "df1c5a5ce47c99504c1efe6f5421c7ba"}, {"path": "fonts/wingding.ttf", "md5": "d9f147b4c366da5940876fd47992c4d2"}, {"path": "models/coll/peds.col", "md5": "74288cbdd843c3cfb77b036a5614ae9d"}, {"path": "models/coll/vehicles.col", "md5": "c84c1a1b67d5fad3df75dd8d45fc576b"}, {"path": "models/coll/weapons.col", "md5": "510e74e32b323eee54dd7a243b073808"}, {"path": "models/effects.fxp", "md5": "94babd9e6ec73bf5d9926e041e708c4f"}, {"path": "texdb/CARS.IMG", "md5": "b5b28f36784614e242b7b85190fe28bd"}, {"path": "texdb/cars/cars.dxt.dat", "md5": "8c87e0b4d447ffa23a826a5e80395b7a"}, {"path": "texdb/cars/cars.dxt.tmb", "md5": "3f4359f5f22551293df4bb6cfd067a08"}, {"path": "texdb/cars/cars.dxt.toc", "md5": "735522edbda9ac125d138b1d1b184374"}, {"path": "texdb/cars/cars.etc.dat", "md5": "8c87e0b4d447ffa23a826a5e80395b7a"}, {"path": "texdb/cars/cars.etc.tmb", "md5": "3f4359f5f22551293df4bb6cfd067a08"}, {"path": "texdb/cars/cars.etc.toc", "md5": "735522edbda9ac125d138b1d1b184374"}, {"path": "texdb/cars/cars.pvr.dat", "md5": "8c87e0b4d447ffa23a826a5e80395b7a"}, {"path": "texdb/cars/cars.pvr.tmb", "md5": "3f4359f5f22551293df4bb6cfd067a08"}, {"path": "texdb/cars/cars.pvr.toc", "md5": "735522edbda9ac125d138b1d1b184374"}, {"path": "texdb/cars/cars.txt", "md5": "b4074ccd3289a2a73e6be6747a061740"}, {"path": "texdb/SAMPCOL.img", "md5": "1830ffedfc451c75aef2dea949d02cb5"}, {"path": "texdb/cutscene.img", "md5": "47ed437d63709bc3b194a5781fd1b9d6"}, {"path": "texdb/cutscene/cutscene.dxt.dat", "md5": "b1f43b90c63071012cb9b9cc4a616368"}, {"path": "texdb/cutscene/cutscene.dxt.tmb", "md5": "ecefcf7d1563ae2fb543ce5c7b72a5aa"}, {"path": "texdb/cutscene/cutscene.dxt.toc", "md5": "243c464558242849cf2ed8e6d552e7a1"}, {"path": "texdb/cutscene/cutscene.etc.dat", "md5": "b1f43b90c63071012cb9b9cc4a616368"}, {"path": "texdb/cutscene/cutscene.etc.tmb", "md5": "ecefcf7d1563ae2fb543ce5c7b72a5aa"}, {"path": "texdb/cutscene/cutscene.etc.toc", "md5": "243c464558242849cf2ed8e6d552e7a1"}, {"path": "texdb/cutscene/cutscene.pvr.dat", "md5": "b1f43b90c63071012cb9b9cc4a616368"}, {"path": "texdb/cutscene/cutscene.pvr.tmb", "md5": "ecefcf7d1563ae2fb543ce5c7b72a5aa"}, {"path": "texdb/cutscene/cutscene.pvr.toc", "md5": "243c464558242849cf2ed8e6d552e7a1"}, {"path": "texdb/cutscene/cutscene.txt", "md5": "1f2342a96a79533cc15b927538635702"}, {"path": "texdb/gta3.img", "md5": "f548816d480d1939cf69c1b677a388db"}, {"path": "texdb/gta3/gta3.dxt.dat", "md5": "b304f23570b1b473a3e134471cd9a5b7"}, {"path": "texdb/gta3/gta3.dxt.tmb", "md5": "7d71c58f3843d93aac09431652bc66c7"}, {"path": "texdb/gta3/gta3.dxt.toc", "md5": "fc7c7112b1973c1f6b0fc9ca74ab482a"}, {"path": "texdb/gta3/gta3.etc.dat", "md5": "b304f23570b1b473a3e134471cd9a5b7"}, {"path": "texdb/gta3/gta3.etc.tmb", "md5": "7d71c58f3843d93aac09431652bc66c7"}, {"path": "texdb/gta3/gta3.etc.toc", "md5": "fc7c7112b1973c1f6b0fc9ca74ab482a"}, {"path": "texdb/gta3/gta3.pvr.dat", "md5": "b304f23570b1b473a3e134471cd9a5b7"}, {"path": "texdb/gta3/gta3.pvr.tmb", "md5": "7d71c58f3843d93aac09431652bc66c7"}, {"path": "texdb/gta3/gta3.pvr.toc", "md5": "fc7c7112b1973c1f6b0fc9ca74ab482a"}, {"path": "texdb/gta3/gta3.txt", "md5": "9308d3a5d02f280e2c01d6a0f45488c9"}, {"path": "texdb/gta_int.img", "md5": "d81cd4cb77a6a021b6696bf9043bad60"}, {"path": "texdb/gta_int/gta_int.dxt.dat", "md5": "87ed4beca6f0ae920149461bc257a5de"}, {"path": "texdb/gta_int/gta_int.dxt.tmb", "md5": "01c7f49e1411d7a9a2d673074200cefb"}, {"path": "texdb/gta_int/gta_int.dxt.toc", "md5": "b8a17b9d1417c41b9f3693b75ea97818"}, {"path": "texdb/gta_int/gta_int.etc.dat", "md5": "87ed4beca6f0ae920149461bc257a5de"}, {"path": "texdb/gta_int/gta_int.etc.tmb", "md5": "01c7f49e1411d7a9a2d673074200cefb"}, {"path": "texdb/gta_int/gta_int.etc.toc", "md5": "b8a17b9d1417c41b9f3693b75ea97818"}, {"path": "texdb/gta_int/gta_int.pvr.dat", "md5": "87ed4beca6f0ae920149461bc257a5de"}, {"path": "texdb/gta_int/gta_int.pvr.tmb", "md5": "01c7f49e1411d7a9a2d673074200cefb"}, {"path": "texdb/gta_int/gta_int.pvr.toc", "md5": "b8a17b9d1417c41b9f3693b75ea97818"}, {"path": "texdb/gta_int/gta_int.txt", "md5": "14a247d3a06feb2d5d655dad82e5107b"}, {"path": "texdb/menu/menu.dxt.dat", "md5": "3d7f85a73b951cccecc2e7c41e9d82e2"}, {"path": "texdb/menu/menu.dxt.tmb", "md5": "84f83c8a061264840fb5b1545d966c2b"}, {"path": "texdb/menu/menu.dxt.toc", "md5": "d9901f2f2746f04c13ba27e8900e86a9"}, {"path": "texdb/menu/menu.etc.dat", "md5": "30aa5729649d437766a245e48a8428c8"}, {"path": "texdb/menu/menu.etc.tmb", "md5": "84f83c8a061264840fb5b1545d966c2b"}, {"path": "texdb/menu/menu.etc.toc", "md5": "28a864dbb1cc5424b15ef1212d20eab5"}, {"path": "texdb/menu/menu.pvr.dat", "md5": "30aa5729649d437766a245e48a8428c8"}, {"path": "texdb/menu/menu.pvr.tmb", "md5": "84f83c8a061264840fb5b1545d966c2b"}, {"path": "texdb/menu/menu.pvr.toc", "md5": "28a864dbb1cc5424b15ef1212d20eab5"}, {"path": "texdb/menu/menu.txt", "md5": "2a422b09cff65291c7ee5cb5d370445f"}, {"path": "texdb/mobile/mobile.dxt.dat", "md5": "c59f70aec02d6cfa3b04070e5fc35364"}, {"path": "texdb/mobile/mobile.dxt.tmb", "md5": "2631db46cecaddae269fd16ca9279ca0"}, {"path": "texdb/mobile/mobile.dxt.toc", "md5": "08eac958d754ddcf705d2ab430aa9843"}, {"path": "texdb/mobile/mobile.etc.dat", "md5": "c59f70aec02d6cfa3b04070e5fc35364"}, {"path": "texdb/mobile/mobile.etc.tmb", "md5": "2631db46cecaddae269fd16ca9279ca0"}, {"path": "texdb/mobile/mobile.etc.toc", "md5": "08eac958d754ddcf705d2ab430aa9843"}, {"path": "texdb/mobile/mobile.pvr.dat", "md5": "c59f70aec02d6cfa3b04070e5fc35364"}, {"path": "texdb/mobile/mobile.pvr.tmb", "md5": "2631db46cecaddae269fd16ca9279ca0"}, {"path": "texdb/mobile/mobile.pvr.toc", "md5": "08eac958d754ddcf705d2ab430aa9843"}, {"path": "texdb/mobile/mobile.txt", "md5": "467d893c0a9ede9db384134e8c078761"}, {"path": "texdb/player.img", "md5": "3eeff76e39c62d2874abbe8656dbd457"}, {"path": "texdb/player/player.pvr.dat", "md5": "a1d04da0effd7228b88b2cc2a44af38c"}, {"path": "texdb/player/player.pvr.tmb", "md5": "05c457dd35da898f875659a3db8f52d6"}, {"path": "texdb/player/player.pvr.toc", "md5": "ff93c115e12f79407b69fd422a40908f"}, {"path": "texdb/player/player.txt", "md5": "53712a52f9a98a3224207a9b67788b83"}, {"path": "texdb/playerhi/playerhi.pvr.dat", "md5": "0dc839aa289317ea221f8fb8f896f46c"}, {"path": "texdb/playerhi/playerhi.pvr.tmb", "md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"}, {"path": "texdb/playerhi/playerhi.pvr.toc", "md5": "36e2114e4d8001e615527313513b4341"}, {"path": "texdb/playerhi/playerhi.txt", "md5": "a0ca027e517b7352eba72c420b5357b4"}, {"path": "texdb/samp.img", "md5": "6fb0e8cbd413efa346be87c53171ebec"}, {"path": "texdb/samp/samp.dxt.dat", "md5": "976fe67cf9c759751cdbc1a785fc798e"}, {"path": "texdb/samp/samp.dxt.tmb", "md5": "4b3ef3fb6f3c5decaf1347f1f5e9d93d"}, {"path": "texdb/samp/samp.dxt.toc", "md5": "74b29a5a789cc10d1ac81aefacf26eef"}, {"path": "texdb/samp/samp.etc.dat", "md5": "976fe67cf9c759751cdbc1a785fc798e"}, {"path": "texdb/samp/samp.etc.tmb", "md5": "4b3ef3fb6f3c5decaf1347f1f5e9d93d"}, {"path": "texdb/samp/samp.etc.toc", "md5": "74b29a5a789cc10d1ac81aefacf26eef"}, {"path": "texdb/samp/samp.pvr.dat", "md5": "976fe67cf9c759751cdbc1a785fc798e"}, {"path": "texdb/samp/samp.pvr.tmb", "md5": "4b3ef3fb6f3c5decaf1347f1f5e9d93d"}, {"path": "texdb/samp/samp.pvr.toc", "md5": "74b29a5a789cc10d1ac81aefacf26eef"}, {"path": "texdb/samp/samp.txt", "md5": "c8d6bf40b5a4a868a9b9e87b61ca879f"}, {"path": "texdb/txd/txd.360.dat", "md5": "0c1f471d59fd6a598de33720fcb3ca57"}, {"path": "texdb/txd/txd.360.tmb", "md5": "6b08237e348ca8c6b5e7452251dfd1f4"}, {"path": "texdb/txd/txd.360.toc", "md5": "a45a554f2cfa0e5d6c9da0d5bb2b66b5"}, {"path": "texdb/txd/txd.dxt.dat", "md5": "22f63679e5ca5e642970c059cfdcef82"}, {"path": "texdb/txd/txd.dxt.tmb", "md5": "eb143e1f2519277b04f401063d47def9"}, {"path": "texdb/txd/txd.dxt.toc", "md5": "35cefacc6b69bd76ef5516dd7c04c9bd"}, {"path": "texdb/txd/txd.etc.dat", "md5": "22f63679e5ca5e642970c059cfdcef82"}, {"path": "texdb/txd/txd.etc.tmb", "md5": "eb143e1f2519277b04f401063d47def9"}, {"path": "texdb/txd/txd.etc.toc", "md5": "35cefacc6b69bd76ef5516dd7c04c9bd"}, {"path": "texdb/txd/txd.pvr.dat", "md5": "22f63679e5ca5e642970c059cfdcef82"}, {"path": "texdb/txd/txd.pvr.tmb", "md5": "eb143e1f2519277b04f401063d47def9"}, {"path": "texdb/txd/txd.pvr.toc", "md5": "35cefacc6b69bd76ef5516dd7c04c9bd"}, {"path": "texdb/txd/txd.txt", "md5": "b5684075b2f6e5300be76ac955544f20"}]
+[
+  {
+    "path": "GTASAMP10.b",
+    "md5": "5cbd020230ea32e5a00a1d2537b7bb3a"
+  },
+  {
+    "path": "GTASAsf1.b",
+    "md5": "1c1cb684ab921fe3ad67fc611a9c7f7f"
+  },
+  {
+    "path": "GTASAsf10.b",
+    "md5": "cd370687dd77262306d0c11e59393065"
+  },
+  {
+    "path": "SAMP/WEAPON.dat",
+    "md5": "0a9bb49003680364f9f9768e9bcea982"
+  },
+  {
+    "path": "SAMP/fonts/Arial Black.ttf",
+    "md5": "5db923a42861b651871f15390bb27594"
+  },
+  {
+    "path": "SAMP/fonts/Arial.ttf",
+    "md5": "5995c725ca5a13be62d3dc75c2fc59fc"
+  },
+  {
+    "path": "SAMP/fonts/Calibri.ttf",
+    "md5": "080db3904c06562bd61e0d1513e4eea5"
+  },
+  {
+    "path": "SAMP/fonts/Callibri.ttf",
+    "md5": "080db3904c06562bd61e0d1513e4eea5"
+  },
+  {
+    "path": "SAMP/fonts/Comic Sans MS.ttf",
+    "md5": "15fbe4ccea5683707815c9aa9cf71a46"
+  },
+  {
+    "path": "SAMP/fonts/Courier New.ttf",
+    "md5": "32c8302510dac699000b2108285b7d57"
+  },
+  {
+    "path": "SAMP/fonts/Engravers MT.ttf",
+    "md5": "f3d98212a5fd124474ae99ea8eaedf54"
+  },
+  {
+    "path": "SAMP/fonts/Fixedsys.ttf",
+    "md5": "9de66fe4842edf59e46e15c90e686087"
+  },
+  {
+    "path": "SAMP/fonts/Franklin Gothic Medium.ttf",
+    "md5": "5ed560b8bb0f06527afd80e9fe95b9f9"
+  },
+  {
+    "path": "SAMP/fonts/Georgia.ttf",
+    "md5": "bc4233e2e797e27e74fc7148b45c7f5a"
+  },
+  {
+    "path": "SAMP/fonts/Impact.ttf",
+    "md5": "246ca0ac70e092799e2debd8c448dd19"
+  },
+  {
+    "path": "SAMP/fonts/Lucida Console.ttf",
+    "md5": "97a55c954a18d2daae22c5f9114794d5"
+  },
+  {
+    "path": "SAMP/fonts/Lucida Sans Unicode.ttf",
+    "md5": "d7179850bdd2cfaf663c8254ea739e4d"
+  },
+  {
+    "path": "SAMP/fonts/Monotype Corsiva.ttf",
+    "md5": "b98f57ac686fc135914a844ec0ce8d49"
+  },
+  {
+    "path": "SAMP/fonts/Palatino Linotype.ttf",
+    "md5": "96261bb90c9babbf8042ce7f43200d65"
+  },
+  {
+    "path": "SAMP/fonts/Segoe Script.ttf",
+    "md5": "5c452fb7a0f5751f4e94e9d84eb01154"
+  },
+  {
+    "path": "SAMP/fonts/Segoe UI.ttf",
+    "md5": "0e7e9a9b5c4abaadef7bc8f4e4574084"
+  },
+  {
+    "path": "SAMP/fonts/Tahoma.ttf",
+    "md5": "b49845f7bdc0be0a93c24345546b686d"
+  },
+  {
+    "path": "SAMP/fonts/Times New Roman.ttf",
+    "md5": "fcb8965acd0e90c50138958a2a7e0421"
+  },
+  {
+    "path": "SAMP/fonts/Trebuchet MS.ttf",
+    "md5": "aa526f8c90a71f9a79a289a2b5962e52"
+  },
+  {
+    "path": "SAMP/fonts/Verdana.ttf",
+    "md5": "dacc21208b79b905bdc105719d5dea87"
+  },
+  {
+    "path": "SAMP/fonts/arial_bold.ttf",
+    "md5": "ce4244a1fb311a47a5949948b2dc4eab"
+  },
+  {
+    "path": "SAMP/fonts/gtaweap3.ttf",
+    "md5": "b2138ac7ea85efb902618b3be5392ac1"
+  },
+  {
+    "path": "SAMP/fonts/sampaux3.ttf",
+    "md5": "6a03a32076e76f6c1720cad6c6ea6915"
+  },
+  {
+    "path": "SAMP/gta.dat",
+    "md5": "df3a05e7d7bc510f27a726c5c09a10e3"
+  },
+  {
+    "path": "SAMP/handling.cfg",
+    "md5": "6868accef933f1855ec28ce193a78159"
+  },
+  {
+    "path": "SAMP/main.scm",
+    "md5": "ab72a2f3d2ec5cc7a6fa9454e323e289"
+  },
+  {
+    "path": "SAMP/ped.ifp",
+    "md5": "4736b2c90b00981255f9507308ee9174"
+  },
+  {
+    "path": "SAMP/peds.ide",
+    "md5": "e4ebac1a9fc793033c9ca229fabdb18c"
+  },
+  {
+    "path": "SAMP/script.img",
+    "md5": "6e142bb5dd5ec20af8fbd63f9ad4b457"
+  },
+  {
+    "path": "SAMP/vehicleAudioSettings.cfg",
+    "md5": "5187283b2f9635e94dd8a4dc50492748"
+  },
+  {
+    "path": "SAMP/vehicles.ide",
+    "md5": "def164ab865c82c5e11e29488bfebf36"
+  },
+  {
+    "path": "SAMP/version.txt",
+    "md5": "25e64aa754c310d45c1e084d574c1bb0"
+  },
+  {
+    "path": "Text/american.gxt",
+    "md5": "e18a34cc31d4b25c17aa8548f3ee35d6"
+  },
+  {
+    "path": "Text/french.gxt",
+    "md5": "95688dab992a18cdb53c28a94de72050"
+  },
+  {
+    "path": "Text/german.gxt",
+    "md5": "ea657dfddc814ce64dcd9d3e5e88972b"
+  },
+  {
+    "path": "Text/italian.gxt",
+    "md5": "b11c0805e0b8f8ba73dfbdabf3b332c4"
+  },
+  {
+    "path": "Text/japanese.gxt",
+    "md5": "93518ed97249791d9dd9012b8f893a3a"
+  },
+  {
+    "path": "Text/russian.gxt",
+    "md5": "7f42cfe0bcbb012f0e1a4bd48e5c52bc"
+  },
+  {
+    "path": "Text/spanish.gxt",
+    "md5": "91a0a646c18d2f17ec3aff9fd94e235a"
+  },
+  {
+    "path": "Textures/fonts/JapaneseFont.met",
+    "md5": "a69f4a58899fb9b4696da22a4c4aa14b"
+  },
+  {
+    "path": "Textures/fonts/JapaneseFont.png",
+    "md5": "0fe532b0f792714fe5ea965d2ace9482"
+  },
+  {
+    "path": "Textures/fonts/RussianFont.met",
+    "md5": "ea75831cddeee4b4a9ed092e6407432c"
+  },
+  {
+    "path": "Textures/fonts/RussianFont.png",
+    "md5": "190da2434f90e7b96cea7cfc80ae03b0"
+  },
+  {
+    "path": "anim/anim.img",
+    "md5": "3359ba8cb820299161199ee7ef3f1c02"
+  },
+  {
+    "path": "anim/cuts.img",
+    "md5": "47ed437d63709bc3b194a5781fd1b9d6"
+  },
+  {
+    "path": "anim/ped.ifp",
+    "md5": "4736b2c90b00981255f9507308ee9174"
+  },
+  {
+    "path": "audio/CONFIG/AudioEventHistory.txt",
+    "md5": "4f15962340d51394d47a60e11cdbb608"
+  },
+  {
+    "path": "audio/CONFIG/BankLkup.dat",
+    "md5": "b45905c794677467644240aa9abc2f60"
+  },
+  {
+    "path": "audio/CONFIG/BankSlot.dat",
+    "md5": "da40c568a349b58c78c2a8faf8da95a9"
+  },
+  {
+    "path": "audio/CONFIG/EventVol.dat",
+    "md5": "d676adc31b1d0a95631451344892ddd2"
+  },
+  {
+    "path": "audio/CONFIG/PakFiles.dat",
+    "md5": "db1e657a3baafbb86cd1b715c5282c66"
+  },
+  {
+    "path": "audio/CONFIG/SOUNDINF.DAT",
+    "md5": "a220a41520d4c1e58c211835fbeca840"
+  },
+  {
+    "path": "audio/CONFIG/StrmPaks.dat",
+    "md5": "6e65fd943ad6b0bbbc032e1f081ce699"
+  },
+  {
+    "path": "audio/CONFIG/TRKHEAD.DAT",
+    "md5": "5f0d3c7295e8d1c7371fab89a6989723"
+  },
+  {
+    "path": "audio/CONFIG/TrakLkup.dat",
+    "md5": "528e75d663b8bae072a01351081a2145"
+  },
+  {
+    "path": "audio/SFX/FEET.osw",
+    "md5": "e96c0b200c3437c5088ff2bd5a9054d6"
+  },
+  {
+    "path": "audio/SFX/FEET.osw.idx",
+    "md5": "11635b4690838fae6ab1082d30a93890"
+  },
+  {
+    "path": "audio/SFX/GENRL.osw",
+    "md5": "49f36f13260ed27c40fbce4175706cd2"
+  },
+  {
+    "path": "audio/SFX/GENRL.osw.idx",
+    "md5": "1430abad9623bcc316638c75017c1261"
+  },
+  {
+    "path": "audio/SFX/PAIN_A.osw",
+    "md5": "6e2ec42799b7e6f366437e5cb4d04911"
+  },
+  {
+    "path": "audio/SFX/PAIN_A.osw.idx",
+    "md5": "aeb673a62ca2b30244a049429b1e1265"
+  },
+  {
+    "path": "audio/STREAMS/AA.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/AA.osw.idx",
+    "md5": "7d3d3960131764d70b1b268ee5d332f7"
+  },
+  {
+    "path": "audio/STREAMS/ADVERTS.osw",
+    "md5": "4ded1e1f6d9b3917617d495f5d063a13"
+  },
+  {
+    "path": "audio/STREAMS/ADVERTS.osw.idx",
+    "md5": "22e59aad9134b004dc4451ac31e123aa"
+  },
+  {
+    "path": "audio/STREAMS/AMBIENCE.osw",
+    "md5": "83a80c9403ceffd1d9c225c300caec32"
+  },
+  {
+    "path": "audio/STREAMS/AMBIENCE.osw.idx",
+    "md5": "f4713422eb3a13f8050fe963397cd454"
+  },
+  {
+    "path": "audio/STREAMS/BEATS.osw",
+    "md5": "d04cd2d6190f1c39c1251a66a5651f14"
+  },
+  {
+    "path": "audio/STREAMS/BEATS.osw.idx",
+    "md5": "25ad0a62f7324958d14ebdd63032bcf0"
+  },
+  {
+    "path": "audio/STREAMS/CH.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/CH.osw.idx",
+    "md5": "c73c042a6522b5a7d35d8e22333f0adb"
+  },
+  {
+    "path": "audio/STREAMS/CO.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/CO.osw.idx",
+    "md5": "d876639142072405c9e3d74b80fc11bf"
+  },
+  {
+    "path": "audio/STREAMS/CR.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/CR.osw.idx",
+    "md5": "4c6821f5770d5c5049b121c4eaca06e0"
+  },
+  {
+    "path": "audio/STREAMS/CUTSCENE.osw",
+    "md5": "f0ba6914f2152e2eb98b0f18e6e6a40a"
+  },
+  {
+    "path": "audio/STREAMS/CUTSCENE.osw.idx",
+    "md5": "1b2f53c874854fee1e8ad76ca1acc219"
+  },
+  {
+    "path": "audio/STREAMS/DS.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/DS.osw.idx",
+    "md5": "545a2017199e4559c5c21718a9a9d2ac"
+  },
+  {
+    "path": "audio/STREAMS/HC.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/HC.osw.idx",
+    "md5": "c512967bedfc33bc90fcf430af54f356"
+  },
+  {
+    "path": "audio/STREAMS/MH.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/MH.osw.idx",
+    "md5": "018ad9b23fa611d6cc631f903fa95fbc"
+  },
+  {
+    "path": "audio/STREAMS/MR.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/MR.osw.idx",
+    "md5": "ca335e98341486d7423dad1705b6c3fa"
+  },
+  {
+    "path": "audio/STREAMS/NJ.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/NJ.osw.idx",
+    "md5": "8d9c6d51e2b6187a87d2151108333483"
+  },
+  {
+    "path": "audio/STREAMS/RE.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/RE.osw.idx",
+    "md5": "aa9bc67d96f8b9440ac643df8abbf87f"
+  },
+  {
+    "path": "audio/STREAMS/RG.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/RG.osw.idx",
+    "md5": "e801c09baf64a2944a0826933df3c271"
+  },
+  {
+    "path": "audio/STREAMS/TK.osw",
+    "md5": "fc1179502b4313a197e05bc42e6005ba"
+  },
+  {
+    "path": "audio/STREAMS/TK.osw.idx",
+    "md5": "b10ccdf74ab7e576e082ac6f13a893a1"
+  },
+  {
+    "path": "data/360Default1280x720.cfg",
+    "md5": "561609b81469d3ac5dd7325ff388b8de"
+  },
+  {
+    "path": "data/360Default960x720.cfg",
+    "md5": "cbd566273bb949526dd68f9cd6a34ad4"
+  },
+  {
+    "path": "data/Decision/Allowed/Cop.ped",
+    "md5": "2b2456482e8719e8c64877070fecee7f"
+  },
+  {
+    "path": "data/Decision/Allowed/Fireman.ped",
+    "md5": "99ef637f82455921c9572fede370e33b"
+  },
+  {
+    "path": "data/Decision/Allowed/GangMbr.ped",
+    "md5": "cd6e25e2a07fa5e1cc2f0d952c51f3af"
+  },
+  {
+    "path": "data/Decision/Allowed/Indoors.ped",
+    "md5": "5071731f4fd49d79b0562c7dec9a673b"
+  },
+  {
+    "path": "data/Decision/Allowed/MISSION.grp",
+    "md5": "837dd1e06da29bf5d7210a9074164cf2"
+  },
+  {
+    "path": "data/Decision/Allowed/RANDOM.grp",
+    "md5": "cda22c3bed5dd3742542084461082d24"
+  },
+  {
+    "path": "data/Decision/Allowed/RANDOM.ped",
+    "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+  },
+  {
+    "path": "data/Decision/Allowed/RANDOM2.grp",
+    "md5": "25cfafb3b7da432277bfa1291df4d58d"
+  },
+  {
+    "path": "data/Decision/Allowed/R_Norm.ped",
+    "md5": "75d670db732344ec3f90e7db71b1e3a6"
+  },
+  {
+    "path": "data/Decision/Allowed/R_Tough.ped",
+    "md5": "b3e4ca143c1bbcbf99ebf70ef95e7343"
+  },
+  {
+    "path": "data/Decision/Allowed/R_Weak.ped",
+    "md5": "3cddd65754ad3c6ee8aec71b8a69b6c3"
+  },
+  {
+    "path": "data/Decision/Allowed/m_empty.ped",
+    "md5": "149d0c778cab34b995d3958f44eeb18b"
+  },
+  {
+    "path": "data/Decision/Allowed/m_norm.ped",
+    "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+  },
+  {
+    "path": "data/Decision/Allowed/m_plyr.ped",
+    "md5": "50ec4c398f482bbe9428e1011b4bc0b2"
+  },
+  {
+    "path": "data/Decision/Allowed/m_steal.ped",
+    "md5": "ea0e40c00071a4a9446c19b12bf5a035"
+  },
+  {
+    "path": "data/Decision/Allowed/m_tough.ped",
+    "md5": "be9ea5daacc227b8383b9c84a5b3fa9b"
+  },
+  {
+    "path": "data/Decision/Allowed/m_weak.ped",
+    "md5": "03dc3abafa80abec285adc0bddee6777"
+  },
+  {
+    "path": "data/Decision/PedEvent.txt",
+    "md5": "e4fa5caa1558f2945294a3652e6f0cde"
+  },
+  {
+    "path": "data/ShopUVs.dat",
+    "md5": "f40d7ce24ae1ceabb6fcb06646de31d1"
+  },
+  {
+    "path": "data/TouchDefaultPhone3x2.cfg",
+    "md5": "b9de3eedeeceb8a95052f9935374cd33"
+  },
+  {
+    "path": "data/TouchDefaultPhoneWidescreen.cfg",
+    "md5": "681f05aa17c658a568752a765e058150"
+  },
+  {
+    "path": "data/TouchDefaultTablet4x3.cfg",
+    "md5": "37bdbe57243b101bfd2af3177a37ca9c"
+  },
+  {
+    "path": "data/TouchDefaultTabletWidescreen.cfg",
+    "md5": "f15920204887f42b505458c5bfd85fef"
+  },
+  {
+    "path": "data/animgrp.dat",
+    "md5": "6a484b0b2356c524207d939487f1bff1"
+  },
+  {
+    "path": "data/ar_stats.dat",
+    "md5": "a98936b0f3523f23cad2eacc0eaf7a9b"
+  },
+  {
+    "path": "data/carcols.dat",
+    "md5": "2b33843e79bd113873a5d0fb02157749"
+  },
+  {
+    "path": "data/cargrp.dat",
+    "md5": "7ab78f1ac51aa79cf2b65631dc4c011f"
+  },
+  {
+    "path": "data/carmods.dat",
+    "md5": "142ea68e6c8214dc83fd4cab5365b678"
+  },
+  {
+    "path": "data/clothes.dat",
+    "md5": "8762637e580eb936111859ffa29bddb4"
+  },
+  {
+    "path": "data/colorcycle.dat",
+    "md5": "a2340bb6f2e7f3f5de5fb88860df4ffe"
+  },
+  {
+    "path": "data/default.dat",
+    "md5": "8e133355396761bd5cd16bf873154b30"
+  },
+  {
+    "path": "data/default.ide",
+    "md5": "5b6d75bae827e2d88f24f2be66a037bb"
+  },
+  {
+    "path": "data/fonts.dat",
+    "md5": "21bd57063f587cb96eb96e65a9c9a7bb"
+  },
+  {
+    "path": "data/furnitur.dat",
+    "md5": "3199fc8b81a4c5334a497508fe408afd"
+  },
+  {
+    "path": "data/gridref.dat",
+    "md5": "795a9c013ee683e286768e06e4a5e2d7"
+  },
+  {
+    "path": "data/gta.dat",
+    "md5": "2d2e4f7f05e2d82b25c88707096d3393"
+  },
+  {
+    "path": "data/handling.cfg",
+    "md5": "351ef92fc22fa3c1042dd26b1cd73a30"
+  },
+  {
+    "path": "data/info.zon",
+    "md5": "7df10bed5404a2f7669cdfaa47b8b81b"
+  },
+  {
+    "path": "data/map.zon",
+    "md5": "79d255c7a27bb49b50d680390e908e5a"
+  },
+  {
+    "path": "data/maps/Audiozon.ipl",
+    "md5": "bc3d7fc5a6927b61c10acda92e7e20c0"
+  },
+  {
+    "path": "data/maps/LA/LAe.ide",
+    "md5": "6f046fe75467807c612c7f5f0d9bc90f"
+  },
+  {
+    "path": "data/maps/LA/LAe.ipl",
+    "md5": "fa95160d9826c195e1b9d5128c20b35f"
+  },
+  {
+    "path": "data/maps/LA/LAe2.ide",
+    "md5": "b0c016f4d0c9a914894055787146eb0c"
+  },
+  {
+    "path": "data/maps/LA/LAe2.ipl",
+    "md5": "ffa2c90e439f5bd7da317c1ad29a9495"
+  },
+  {
+    "path": "data/maps/LA/LAhills.ide",
+    "md5": "7b9289601c4961f461dd1f2d8b2cc0fa"
+  },
+  {
+    "path": "data/maps/LA/LAhills.ipl",
+    "md5": "4c30d0186a0c65d5be31f5a45965003a"
+  },
+  {
+    "path": "data/maps/LA/LAn.ide",
+    "md5": "b24ce30c982c7bc5b8fafc58b97c0dd7"
+  },
+  {
+    "path": "data/maps/LA/LAn.ipl",
+    "md5": "3f3a9e01ca47388ed62e7bd10527572f"
+  },
+  {
+    "path": "data/maps/LA/LAn2.ide",
+    "md5": "b11043b49c9c71095a9cad47d81418cf"
+  },
+  {
+    "path": "data/maps/LA/LAn2.ipl",
+    "md5": "dbcd933c5857dab676715b930f3eef1f"
+  },
+  {
+    "path": "data/maps/LA/LAs.ide",
+    "md5": "f73f76648dc35e2b7eed800bcf699757"
+  },
+  {
+    "path": "data/maps/LA/LAs.ipl",
+    "md5": "4540df6c3a170ab9b4ff3acce5a9674f"
+  },
+  {
+    "path": "data/maps/LA/LAs2.ide",
+    "md5": "d6f69e02992be26e5606fe1b3d6c8be5"
+  },
+  {
+    "path": "data/maps/LA/LAs2.ipl",
+    "md5": "cf63399c3f61e8a93e0e8dc7a09e766b"
+  },
+  {
+    "path": "data/maps/LA/LAw.ide",
+    "md5": "b1537a83c3758ef87b219cd3dcd8c7e4"
+  },
+  {
+    "path": "data/maps/LA/LAw.ipl",
+    "md5": "1bfe3e1fabd610dc76ab0b44e26dacc6"
+  },
+  {
+    "path": "data/maps/LA/LAw2.ide",
+    "md5": "91ce9890027ca87158a5328417689004"
+  },
+  {
+    "path": "data/maps/LA/LAw2.ipl",
+    "md5": "f220195b871833163f5c04856b03ae8d"
+  },
+  {
+    "path": "data/maps/LA/LAxref.ide",
+    "md5": "142a27d9f570081e2378c45d1749d550"
+  },
+  {
+    "path": "data/maps/LA/LaWn.ide",
+    "md5": "235545b8eb93dcffcb70c1dc2ff6d5fe"
+  },
+  {
+    "path": "data/maps/LA/LaWn.ipl",
+    "md5": "0720120f5c025757ece1344df0d85a30"
+  },
+  {
+    "path": "data/maps/SF/SFSe.ide",
+    "md5": "e153a491cd396f3ab0696107e053a32d"
+  },
+  {
+    "path": "data/maps/SF/SFSe.ipl",
+    "md5": "b275b70372a6d91643e3f585325f8ddc"
+  },
+  {
+    "path": "data/maps/SF/SFe.ide",
+    "md5": "9895ef705b1c3b6dee56cc0f613b4be9"
+  },
+  {
+    "path": "data/maps/SF/SFe.ipl",
+    "md5": "da55b24ac305b2779f46cc1509f444d8"
+  },
+  {
+    "path": "data/maps/SF/SFn.ide",
+    "md5": "27566b5a6dce82513cfdcf65c82ca958"
+  },
+  {
+    "path": "data/maps/SF/SFn.ipl",
+    "md5": "a2133c436d46396b4e1511a33bcb8870"
+  },
+  {
+    "path": "data/maps/SF/SFs.ide",
+    "md5": "5ff7f62b82d1c3e9cae944afbed0f6d0"
+  },
+  {
+    "path": "data/maps/SF/SFs.ipl",
+    "md5": "518077ea0974332c8352eb9af931d197"
+  },
+  {
+    "path": "data/maps/SF/SFw.ide",
+    "md5": "4103fe4fffa18c4845027fb3d7929296"
+  },
+  {
+    "path": "data/maps/SF/SFw.ipl",
+    "md5": "e435f3d83ef4abcc4ce56c41767601ee"
+  },
+  {
+    "path": "data/maps/SF/SFxref.ide",
+    "md5": "23b00cc73b9564f739730c61a232353d"
+  },
+  {
+    "path": "data/maps/country/countn2.ide",
+    "md5": "a962748a2b61e10e927cb6238ef4df80"
+  },
+  {
+    "path": "data/maps/country/countn2.ipl",
+    "md5": "0727df5077b9a6bb7e3e23c1c3990da9"
+  },
+  {
+    "path": "data/maps/country/countryN.ide",
+    "md5": "ad384494c4d2d94683d2c51cef390395"
+  },
+  {
+    "path": "data/maps/country/countryN.ipl",
+    "md5": "443490bda181e7f87e74fcc7704f2500"
+  },
+  {
+    "path": "data/maps/country/countryS.ide",
+    "md5": "85792d5a12621e879cc59ed87db82480"
+  },
+  {
+    "path": "data/maps/country/countryS.ipl",
+    "md5": "8d1bd4b5d337139ff3a953d44fc2b0e3"
+  },
+  {
+    "path": "data/maps/country/countryW.ide",
+    "md5": "b8d0fdd9f7223ded76f4b5f6700fcb6f"
+  },
+  {
+    "path": "data/maps/country/countrye.ide",
+    "md5": "6b46395e665582255b67b5082ad7f667"
+  },
+  {
+    "path": "data/maps/country/countrye.ipl",
+    "md5": "5033cf4354baaad2a521031a1b318df0"
+  },
+  {
+    "path": "data/maps/country/countryw.ipl",
+    "md5": "a46e0560ee61446cbb4d531d99dec553"
+  },
+  {
+    "path": "data/maps/country/counxref.ide",
+    "md5": "67473a3c459f7b3998b498190b72cf62"
+  },
+  {
+    "path": "data/maps/cull.ipl",
+    "md5": "7d723b80560f956bddb8d97ed66086b8"
+  },
+  {
+    "path": "data/maps/generic/barriers.ide",
+    "md5": "d22010cd9522b19bf07efbc421872add"
+  },
+  {
+    "path": "data/maps/generic/dynamic.ide",
+    "md5": "319e6aea03de0c05e075a1f15ed1ce8c"
+  },
+  {
+    "path": "data/maps/generic/dynamic2.ide",
+    "md5": "84b33bece396644d2b197320d0ea9886"
+  },
+  {
+    "path": "data/maps/generic/multiobj.ide",
+    "md5": "63d672310c0cf0efaa8b96c584dd407a"
+  },
+  {
+    "path": "data/maps/generic/procobj.ide",
+    "md5": "bf592e31a663405116a68b63e7d2c49f"
+  },
+  {
+    "path": "data/maps/generic/vegepart.ide",
+    "md5": "b9c84559de97b49ce2036498b3d504d5"
+  },
+  {
+    "path": "data/maps/interior/gen_int1.ide",
+    "md5": "8cdc36bf580a82bf281c9d3a257d4742"
+  },
+  {
+    "path": "data/maps/interior/gen_int1.ipl",
+    "md5": "eb13aff288ed3876354a326a22f29d93"
+  },
+  {
+    "path": "data/maps/interior/gen_int2.ide",
+    "md5": "9b55e0b126ef22f3703b5ccf5bb1b174"
+  },
+  {
+    "path": "data/maps/interior/gen_int2.ipl",
+    "md5": "5efb82b23a9462cbf4c1d0ba6dbc9fd4"
+  },
+  {
+    "path": "data/maps/interior/gen_int3.ide",
+    "md5": "5119e846419e50bbc35bd57415d4376e"
+  },
+  {
+    "path": "data/maps/interior/gen_int3.ipl",
+    "md5": "e14d644ed3a26d5711704f875f2c11e1"
+  },
+  {
+    "path": "data/maps/interior/gen_int4.ide",
+    "md5": "16c7dba5af8ae61172599f29ed9dd6c0"
+  },
+  {
+    "path": "data/maps/interior/gen_int4.ipl",
+    "md5": "339028d9c3aac53a8a28212179fced01"
+  },
+  {
+    "path": "data/maps/interior/gen_int5.ide",
+    "md5": "1f183baa44e0b759c2917c34ac23d3b5"
+  },
+  {
+    "path": "data/maps/interior/gen_int5.ipl",
+    "md5": "0acd219bca22d7cb8c8b50d738c3275c"
+  },
+  {
+    "path": "data/maps/interior/gen_intb.ide",
+    "md5": "48a554b28c8045c21b6ed0905a76768f"
+  },
+  {
+    "path": "data/maps/interior/gen_intb.ipl",
+    "md5": "663b75b0898db03687d5e6edb1d3b7f8"
+  },
+  {
+    "path": "data/maps/interior/int_LA.ide",
+    "md5": "ee9a394ae0ce8cf6f77fb82c758d7c89"
+  },
+  {
+    "path": "data/maps/interior/int_LA.ipl",
+    "md5": "2ae3c352e5de6e290dc631da053c5cfc"
+  },
+  {
+    "path": "data/maps/interior/int_SF.ide",
+    "md5": "cdfdb64d5254a0fc689604d000d0e29c"
+  },
+  {
+    "path": "data/maps/interior/int_SF.ipl",
+    "md5": "3e8cf0138f81f0c505f245e7bbff8b28"
+  },
+  {
+    "path": "data/maps/interior/int_cont.ide",
+    "md5": "f811cdbcfd62ad7c8bf4be61c2d89855"
+  },
+  {
+    "path": "data/maps/interior/int_cont.ipl",
+    "md5": "5331b6ee9cbf7a976f98dc2cce6992e3"
+  },
+  {
+    "path": "data/maps/interior/int_veg.ide",
+    "md5": "3ffe6a366fcadba1a2fb3fb8166ceb31"
+  },
+  {
+    "path": "data/maps/interior/int_veg.ipl",
+    "md5": "8d8030efa3a493324016a395fd180926"
+  },
+  {
+    "path": "data/maps/interior/propext.ide",
+    "md5": "be0f534711073a19378cd30231b9d094"
+  },
+  {
+    "path": "data/maps/interior/props.ide",
+    "md5": "b7ca66885d4fc34fe2f2083f8ed5d725"
+  },
+  {
+    "path": "data/maps/interior/props2.ide",
+    "md5": "043a304b604db2e22d7464bcc36a41ce"
+  },
+  {
+    "path": "data/maps/interior/savehous.ide",
+    "md5": "19af45eb13708b6b3ed9434a42e6a929"
+  },
+  {
+    "path": "data/maps/interior/savehous.ipl",
+    "md5": "2e79a68217244d7d99f3790b63fe3267"
+  },
+  {
+    "path": "data/maps/interior/stadint.ide",
+    "md5": "10953f74890c554dd368ff20bdbeac3d"
+  },
+  {
+    "path": "data/maps/interior/stadint.ipl",
+    "md5": "242ece3c9c070faf6751e66bfb17531c"
+  },
+  {
+    "path": "data/maps/leveldes/leveldes.ide",
+    "md5": "521496c7b8e148bf65e15a2eb9cffdba"
+  },
+  {
+    "path": "data/maps/leveldes/leveldes.ipl",
+    "md5": "4276ccba517ef022c45b39608699a8af"
+  },
+  {
+    "path": "data/maps/leveldes/levelmap.ide",
+    "md5": "8ea3bf7c907763418a32fd7b42249d96"
+  },
+  {
+    "path": "data/maps/leveldes/levelmap.ipl",
+    "md5": "4fb15ec9a9bd76e47842e01cdefa2585"
+  },
+  {
+    "path": "data/maps/leveldes/levelxre.ide",
+    "md5": "4dda3ffcee83f83ca554d85817e52198"
+  },
+  {
+    "path": "data/maps/leveldes/seabed.ide",
+    "md5": "0779f538229decee62071e53f41d4b93"
+  },
+  {
+    "path": "data/maps/leveldes/seabed.ipl",
+    "md5": "fbedb38d8860a71d63d30e4c0f458c86"
+  },
+  {
+    "path": "data/maps/occlu.ipl",
+    "md5": "fbe5264b558576cff738291bc17a9c51"
+  },
+  {
+    "path": "data/maps/occluLA.ipl",
+    "md5": "a355e96c0102c3187fe75da90572b3f2"
+  },
+  {
+    "path": "data/maps/occluint.ipl",
+    "md5": "e89a5ae5ee074086862664b50f6881f5"
+  },
+  {
+    "path": "data/maps/occlusf.ipl",
+    "md5": "9ac2fb7ddddfe7f71a4faad8f71a7b98"
+  },
+  {
+    "path": "data/maps/occluveg.ipl",
+    "md5": "394dc4170c928d4227f9c0e185d51261"
+  },
+  {
+    "path": "data/maps/paths.ipl",
+    "md5": "37426c7d5218aa13aaec2f582aaaabc4"
+  },
+  {
+    "path": "data/maps/paths2.ipl",
+    "md5": "b38219724ec5eaa1dba1df4331389509"
+  },
+  {
+    "path": "data/maps/paths3.ipl",
+    "md5": "1f5f7a824575552057fe7001c54c51a9"
+  },
+  {
+    "path": "data/maps/paths4.ipl",
+    "md5": "73c948a8d373623524b4fca8a2b9c25a"
+  },
+  {
+    "path": "data/maps/paths5.ipl",
+    "md5": "8f3d100baff8ee2088d0b74474175250"
+  },
+  {
+    "path": "data/maps/tunnels.ipl",
+    "md5": "1438622c076f6122ff6cdd03241b638c"
+  },
+  {
+    "path": "data/maps/vegas/VegasN.ide",
+    "md5": "6a35f16ac1b76f151be42c3860c81ffd"
+  },
+  {
+    "path": "data/maps/vegas/VegasS.ide",
+    "md5": "ed0cca34a8fdc556a7ca835ee0923b58"
+  },
+  {
+    "path": "data/maps/vegas/VegasW.ide",
+    "md5": "593313a65eb9f8905c61bd02296e4468"
+  },
+  {
+    "path": "data/maps/vegas/vegasE.ide",
+    "md5": "be3e059ba348f994e320e1e366752031"
+  },
+  {
+    "path": "data/maps/vegas/vegasE.ipl",
+    "md5": "ea279d9a9d6e3addb981b5186da91424"
+  },
+  {
+    "path": "data/maps/vegas/vegasN.ipl",
+    "md5": "e6b6cc52ad19a5e93a45d659019f7b41"
+  },
+  {
+    "path": "data/maps/vegas/vegasS.ipl",
+    "md5": "ce4cb524d5bee74bab77029e5541b1ae"
+  },
+  {
+    "path": "data/maps/vegas/vegasW.ipl",
+    "md5": "43989ba645119a9b287fb0e3782245e7"
+  },
+  {
+    "path": "data/maps/vegas/vegaxref.ide",
+    "md5": "61c9cd72a43ca6f34788c4bde736431e"
+  },
+  {
+    "path": "data/maps/vegas/vegaxref.ipl",
+    "md5": "789520fd41a60f0067c802c6f00d021b"
+  },
+  {
+    "path": "data/maps/veh_mods/veh_mods.ide",
+    "md5": "e5f05eea1d6fb145bfa0d5f9950ddd54"
+  },
+  {
+    "path": "data/melee.dat",
+    "md5": "b2f05657980e4a693f8ff5eadcbad8f8"
+  },
+  {
+    "path": "data/object.dat",
+    "md5": "46a5e7dff90078842e24d9de5e92cc3e"
+  },
+  {
+    "path": "data/paths/ROADBLOX.DAT",
+    "md5": "2dbd1fa4fc98e4cd0d84e647b3a12fa6"
+  },
+  {
+    "path": "data/paths/carrec.img",
+    "md5": "7f94ccaf1d647f581cce81a821dff2cb"
+  },
+  {
+    "path": "data/paths/tracks.dat",
+    "md5": "16b7c65078f262893e18a5d626bbedbd"
+  },
+  {
+    "path": "data/paths/tracks2.dat",
+    "md5": "f5c1f87d1ae814a12a2aeb51e4ef27e0"
+  },
+  {
+    "path": "data/paths/tracks3.dat",
+    "md5": "fc3e3e450c92a0cdcdf6d5bf26dda212"
+  },
+  {
+    "path": "data/paths/tracks4.dat",
+    "md5": "10066144ef14c40fff4d5bd3cc147360"
+  },
+  {
+    "path": "data/ped.dat",
+    "md5": "67d960dde13228d4818e0f144adafe4e"
+  },
+  {
+    "path": "data/pedgrp.dat",
+    "md5": "fa1731066423ba0c584e757eda946f15"
+  },
+  {
+    "path": "data/peds.ide",
+    "md5": "f7dea69fa6ab973479b9ef0cf05d3d98"
+  },
+  {
+    "path": "data/pedstats.dat",
+    "md5": "d722c90c92f3ad5c1b531596769f61cd"
+  },
+  {
+    "path": "data/plants.dat",
+    "md5": "a2713338dbbd55898a4195e4464c6b06"
+  },
+  {
+    "path": "data/popcycle.dat",
+    "md5": "a43f90361d1034c819a602171d8d66cb"
+  },
+  {
+    "path": "data/procobj.dat",
+    "md5": "7229fa03d65f135bd569c3692d67c4b3"
+  },
+  {
+    "path": "data/script/mainV1.scm",
+    "md5": "6f8801c5fb1949bf53b8f38bf6a4ab71"
+  },
+  {
+    "path": "data/script/scriptv1.img",
+    "md5": "fb7f9c3cf85683d9634c6c69ad0482f3"
+  },
+  {
+    "path": "data/shopping.dat",
+    "md5": "c1086eb6c0bfa36845f2026b68519f14"
+  },
+  {
+    "path": "data/statdisp.dat",
+    "md5": "3a6cabab2094de3e0b3810a40e24194c"
+  },
+  {
+    "path": "data/surface.dat",
+    "md5": "9eb4e4e474abd5da2f3961a5ef549f9e"
+  },
+  {
+    "path": "data/surfaud.dat",
+    "md5": "c32c586e8ba35742e356e6525619f7c3"
+  },
+  {
+    "path": "data/surfinfo.dat",
+    "md5": "605dd0beabccc797ce94a51a3e4a09eb"
+  },
+  {
+    "path": "data/timecyc.dat",
+    "md5": "da099401d8238d75e7a4c5f0131f92f9"
+  },
+  {
+    "path": "data/txdcut.ide",
+    "md5": "e3c231039048a30680b8f13fb51cc4ac"
+  },
+  {
+    "path": "data/vehicles.ide",
+    "md5": "bdc3a0fced2402c5bc61585714457d4b"
+  },
+  {
+    "path": "data/water.dat",
+    "md5": "690400ecc92169d9eaddaaa948903efb"
+  },
+  {
+    "path": "data/water1.dat",
+    "md5": "16fe5a3e8c57d02eb62a44a96d8b9d39"
+  },
+  {
+    "path": "data/weapon.dat",
+    "md5": "28f518b60b7b77bbe6d7cbe3fad594c2"
+  },
+  {
+    "path": "models/coll/peds.col",
+    "md5": "74288cbdd843c3cfb77b036a5614ae9d"
+  },
+  {
+    "path": "models/coll/vehicles.col",
+    "md5": "c84c1a1b67d5fad3df75dd8d45fc576b"
+  },
+  {
+    "path": "models/coll/weapons.col",
+    "md5": "510e74e32b323eee54dd7a243b073808"
+  },
+  {
+    "path": "models/effects.fxp",
+    "md5": "94babd9e6ec73bf5d9926e041e708c4f"
+  },
+  {
+    "path": "texdb/SAMP.ide",
+    "md5": "3b598063d67472859cc42ba9d3a442ba"
+  },
+  {
+    "path": "texdb/SAMP.ipl",
+    "md5": "f5fc70efa49b43fc48fc71e3c680b50e"
+  },
+  {
+    "path": "texdb/SAMPCOL.img",
+    "md5": "89975ba6d0805e736e8e12547647b2d4"
+  },
+  {
+    "path": "texdb/CARS.IMG",
+    "md5": "19a3340af1bc5fd2a17ecede8639a77f"
+  },
+  {
+    "path": "texdb/cars/cars.dxt.dat",
+    "md5": "f224b1d16217cb063cfc827889c6560d"
+  },
+  {
+    "path": "texdb/cars/cars.dxt.tmb",
+    "md5": "1f7f0a2a3901c2490379d9eab402c96d"
+  },
+  {
+    "path": "texdb/cars/cars.dxt.toc",
+    "md5": "232aae5eddf2de18638091aec5903b45"
+  },
+  {
+    "path": "texdb/cars/cars.etc.dat",
+    "md5": "f224b1d16217cb063cfc827889c6560d"
+  },
+  {
+    "path": "texdb/cars/cars.etc.tmb",
+    "md5": "1f7f0a2a3901c2490379d9eab402c96d"
+  },
+  {
+    "path": "texdb/cars/cars.etc.toc",
+    "md5": "232aae5eddf2de18638091aec5903b45"
+  },
+  {
+    "path": "texdb/cars/cars.pvr.dat",
+    "md5": "f224b1d16217cb063cfc827889c6560d"
+  },
+  {
+    "path": "texdb/cars/cars.pvr.tmb",
+    "md5": "1f7f0a2a3901c2490379d9eab402c96d"
+  },
+  {
+    "path": "texdb/cars/cars.pvr.toc",
+    "md5": "232aae5eddf2de18638091aec5903b45"
+  },
+  {
+    "path": "texdb/cars/cars.txt",
+    "md5": "1efe6a056cb2f056f0e1fe2d9c29ec71"
+  },
+  {
+    "path": "texdb/cars/cars.unc.tmb",
+    "md5": "1f7f0a2a3901c2490379d9eab402c96d"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.360.dat",
+    "md5": "0c1f471d59fd6a598de33720fcb3ca57"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.360.tmb",
+    "md5": "6b08237e348ca8c6b5e7452251dfd1f4"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.360.toc",
+    "md5": "a45a554f2cfa0e5d6c9da0d5bb2b66b5"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.dxt.dat",
+    "md5": "985500466a575ecab8239846143f13de"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.dxt.tmb",
+    "md5": "f60512a059aaa920c3dc535d9513b6bd"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.dxt.toc",
+    "md5": "977f3a8b15d6d7a7f3066825be62fbcc"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.etc.dat",
+    "md5": "985500466a575ecab8239846143f13de"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.etc.tmb",
+    "md5": "f60512a059aaa920c3dc535d9513b6bd"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.etc.toc",
+    "md5": "977f3a8b15d6d7a7f3066825be62fbcc"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.pvr.dat",
+    "md5": "985500466a575ecab8239846143f13de"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.pvr.tmb",
+    "md5": "f60512a059aaa920c3dc535d9513b6bd"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.pvr.toc",
+    "md5": "977f3a8b15d6d7a7f3066825be62fbcc"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.txt",
+    "md5": "26131623e72da1a49fb6836f249198e1"
+  },
+  {
+    "path": "texdb/flin_gui/flin_gui.unc.tmb",
+    "md5": "f60512a059aaa920c3dc535d9513b6bd"
+  },
+  {
+    "path": "texdb/gta3.img",
+    "md5": "f548816d480d1939cf69c1b677a388db"
+  },
+  {
+    "path": "texdb/gta3/gta3.dxt.dat",
+    "md5": "e09e6369b9a7b7ef809bc6ddb841f117"
+  },
+  {
+    "path": "texdb/gta3/gta3.dxt.tmb",
+    "md5": "9e59b5f373b3dae810d685423b9724ea"
+  },
+  {
+    "path": "texdb/gta3/gta3.dxt.toc",
+    "md5": "fbdb9997b8a28770749aa8fd827820d1"
+  },
+  {
+    "path": "texdb/gta3/gta3.etc.dat",
+    "md5": "903fc97e5a3e554f9550d097d18c45d8"
+  },
+  {
+    "path": "texdb/gta3/gta3.etc.tmb",
+    "md5": "d92ded257423cad87f59978ac6a5cb02"
+  },
+  {
+    "path": "texdb/gta3/gta3.etc.toc",
+    "md5": "d8a7a7aebd309ee5946421297a49ace1"
+  },
+  {
+    "path": "texdb/gta3/gta3.pvr.dat",
+    "md5": "eac02e2030d443b3116278651d0d7919"
+  },
+  {
+    "path": "texdb/gta3/gta3.pvr.tmb",
+    "md5": "14b8b3a85f69639e1a5130c7e137d0b1"
+  },
+  {
+    "path": "texdb/gta3/gta3.pvr.toc",
+    "md5": "0077d95027fd88b199ca1da786b21ce6"
+  },
+  {
+    "path": "texdb/gta3/gta3.txt",
+    "md5": "51a10025f92d96db77a120216bf9e2d2"
+  },
+  {
+    "path": "texdb/gta3/gta3.unc.tmb",
+    "md5": "284b74562be9d6247e0585c06995129e"
+  },
+  {
+    "path": "texdb/gta_int.img",
+    "md5": "d81cd4cb77a6a021b6696bf9043bad60"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.dxt.dat",
+    "md5": "ba8be7a331e8f7e7ebc349c2bf6dcbb8"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.dxt.tmb",
+    "md5": "28e9adc69807a5b5ab0918237adbfe2c"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.dxt.toc",
+    "md5": "85cc2385ba2fb628f9101463d1f18467"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.etc.dat",
+    "md5": "e36a6ccf1f11988992d2e3a80482de97"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.etc.tmb",
+    "md5": "28e9adc69807a5b5ab0918237adbfe2c"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.etc.toc",
+    "md5": "6e4ed61bc62676310c3b2974699710fe"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.pvr.dat",
+    "md5": "c21ebdb0bf2c16805bc37fc935827db3"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.pvr.tmb",
+    "md5": "28e9adc69807a5b5ab0918237adbfe2c"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.pvr.toc",
+    "md5": "c791cd7611bb57cacc2fad81a12bfeec"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.txt",
+    "md5": "159ebdcb32a7afc48395bfad16b1dbf2"
+  },
+  {
+    "path": "texdb/gta_int/gta_int.unc.tmb",
+    "md5": "28e9adc69807a5b5ab0918237adbfe2c"
+  },
+  {
+    "path": "texdb/menu/menu.dxt.dat",
+    "md5": "233408d67748e2eb90b732dadf5df36e"
+  },
+  {
+    "path": "texdb/menu/menu.dxt.tmb",
+    "md5": "5f3b2d83cd9d5b52f4224648cb069a3f"
+  },
+  {
+    "path": "texdb/menu/menu.dxt.toc",
+    "md5": "546c5b077527b4c4f371b15f5d203d97"
+  },
+  {
+    "path": "texdb/menu/menu.etc.dat",
+    "md5": "8c52b9f8e7ad68f6d0f0bc3ca4f30137"
+  },
+  {
+    "path": "texdb/menu/menu.etc.tmb",
+    "md5": "5f3b2d83cd9d5b52f4224648cb069a3f"
+  },
+  {
+    "path": "texdb/menu/menu.etc.toc",
+    "md5": "08bba6d3ed7e5bd133ffd17a55634e09"
+  },
+  {
+    "path": "texdb/menu/menu.pvr.dat",
+    "md5": "8c52b9f8e7ad68f6d0f0bc3ca4f30137"
+  },
+  {
+    "path": "texdb/menu/menu.pvr.tmb",
+    "md5": "5f3b2d83cd9d5b52f4224648cb069a3f"
+  },
+  {
+    "path": "texdb/menu/menu.pvr.toc",
+    "md5": "08bba6d3ed7e5bd133ffd17a55634e09"
+  },
+  {
+    "path": "texdb/menu/menu.txt",
+    "md5": "52f6c9d97184f14e66c5fc79ce1252fd"
+  },
+  {
+    "path": "texdb/menu/menu.unc.tmb",
+    "md5": "b53a67dca43ae4831c85aba542d0f416"
+  },
+  {
+    "path": "texdb/mobile/mobile.dxt.dat",
+    "md5": "3b6ab4db913ebbad557fc3e531aeab3e"
+  },
+  {
+    "path": "texdb/mobile/mobile.dxt.tmb",
+    "md5": "db8e65a8552771d39491820f05209289"
+  },
+  {
+    "path": "texdb/mobile/mobile.dxt.toc",
+    "md5": "5db91bd1113cea94642d6078eab60163"
+  },
+  {
+    "path": "texdb/mobile/mobile.etc.dat",
+    "md5": "8b4848ae97fa865968183458d994ea0a"
+  },
+  {
+    "path": "texdb/mobile/mobile.etc.tmb",
+    "md5": "db8e65a8552771d39491820f05209289"
+  },
+  {
+    "path": "texdb/mobile/mobile.etc.toc",
+    "md5": "a069252552589d22d2f673ef527899a7"
+  },
+  {
+    "path": "texdb/mobile/mobile.pvr.dat",
+    "md5": "c5b25ce732a4124ad40759ef6f152f74"
+  },
+  {
+    "path": "texdb/mobile/mobile.pvr.tmb",
+    "md5": "db8e65a8552771d39491820f05209289"
+  },
+  {
+    "path": "texdb/mobile/mobile.pvr.toc",
+    "md5": "a069252552589d22d2f673ef527899a7"
+  },
+  {
+    "path": "texdb/mobile/mobile.txt",
+    "md5": "1c8e207797a8f409d8c7a7c584ee890d"
+  },
+  {
+    "path": "texdb/mobile/mobile.unc.tmb",
+    "md5": "6e31d5c3ed52e3e4225de6ad895d1d5c"
+  },
+  {
+    "path": "texdb/player.img",
+    "md5": "3eeff76e39c62d2874abbe8656dbd457"
+  },
+  {
+    "path": "texdb/player/player.pvr.dat",
+    "md5": "a1d04da0effd7228b88b2cc2a44af38c"
+  },
+  {
+    "path": "texdb/player/player.pvr.tmb",
+    "md5": "05c457dd35da898f875659a3db8f52d6"
+  },
+  {
+    "path": "texdb/player/player.pvr.toc",
+    "md5": "ff93c115e12f79407b69fd422a40908f"
+  },
+  {
+    "path": "texdb/player/player.txt",
+    "md5": "53712a52f9a98a3224207a9b67788b83"
+  },
+  {
+    "path": "texdb/playerhi/playerhi.pvr.dat",
+    "md5": "0dc839aa289317ea221f8fb8f896f46c"
+  },
+  {
+    "path": "texdb/playerhi/playerhi.pvr.tmb",
+    "md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"
+  },
+  {
+    "path": "texdb/playerhi/playerhi.pvr.toc",
+    "md5": "36e2114e4d8001e615527313513b4341"
+  },
+  {
+    "path": "texdb/playerhi/playerhi.txt",
+    "md5": "a0ca027e517b7352eba72c420b5357b4"
+  },
+  {
+    "path": "texdb/samp.img",
+    "md5": "1deea88333c6f325e435beff221d83c9"
+  },
+  {
+    "path": "texdb/samp/samp.dxt.dat",
+    "md5": "14ea7a406373f538ff88f8d6d6ca31d1"
+  },
+  {
+    "path": "texdb/samp/samp.dxt.tmb",
+    "md5": "bdbf4221043337bb4eaec8ebd042c2d7"
+  },
+  {
+    "path": "texdb/samp/samp.dxt.toc",
+    "md5": "8d2a1b01994ed43fc9b97ab45ec95046"
+  },
+  {
+    "path": "texdb/samp/samp.etc.dat",
+    "md5": "5f78cffe77f26a70e0646014a862fb77"
+  },
+  {
+    "path": "texdb/samp/samp.etc.tmb",
+    "md5": "c28e9d9359af86d567d567f493ece813"
+  },
+  {
+    "path": "texdb/samp/samp.etc.toc",
+    "md5": "4c30de1abc9b820084c4a96aab08d0ac"
+  },
+  {
+    "path": "texdb/samp/samp.pvr.dat",
+    "md5": "5d271dcb55adc872f11ec82080f27312"
+  },
+  {
+    "path": "texdb/samp/samp.pvr.tmb",
+    "md5": "c28e9d9359af86d567d567f493ece813"
+  },
+  {
+    "path": "texdb/samp/samp.pvr.toc",
+    "md5": "c926f4b9dde5993e719acc54bede5f5b"
+  },
+  {
+    "path": "texdb/samp/samp.txt",
+    "md5": "a6d2be8a93be7110a696be4000ef4cd9"
+  },
+  {
+    "path": "texdb/samp/samp.unc.dat",
+    "md5": "c4b3136d6e7634f8c78c1d3cd24fda15"
+  },
+  {
+    "path": "texdb/samp/samp.unc.tmb",
+    "md5": "b087124d6e46f1b844243fa27880939b"
+  },
+  {
+    "path": "texdb/samp/samp.unc.toc",
+    "md5": "294477b650f1b2cda1825d4e9461ff9a"
+  },
+  {
+    "path": "texdb/txd/txd.360.dat",
+    "md5": "0c1f471d59fd6a598de33720fcb3ca57"
+  },
+  {
+    "path": "texdb/txd/txd.360.tmb",
+    "md5": "6b08237e348ca8c6b5e7452251dfd1f4"
+  },
+  {
+    "path": "texdb/txd/txd.360.toc",
+    "md5": "a45a554f2cfa0e5d6c9da0d5bb2b66b5"
+  },
+  {
+    "path": "texdb/txd/txd.dxt.dat",
+    "md5": "ecdcfaa285a7ba3fb58e2410ab1926ca"
+  },
+  {
+    "path": "texdb/txd/txd.dxt.tmb",
+    "md5": "97177d6d9535b5052a3506616541d115"
+  },
+  {
+    "path": "texdb/txd/txd.dxt.toc",
+    "md5": "16cc123bee86b5ed17895ffb3e9f8757"
+  },
+  {
+    "path": "texdb/txd/txd.etc.dat",
+    "md5": "816c84140de80f544325891da7c0a4a0"
+  },
+  {
+    "path": "texdb/txd/txd.etc.tmb",
+    "md5": "26f1f0670e31fb9fe07110dc39a7b38c"
+  },
+  {
+    "path": "texdb/txd/txd.etc.toc",
+    "md5": "fa46119062d17bb7e9342e692794ea65"
+  },
+  {
+    "path": "texdb/txd/txd.pvr.dat",
+    "md5": "afe7516b1dd510561cb067534758a600"
+  },
+  {
+    "path": "texdb/txd/txd.pvr.tmb",
+    "md5": "09533f79a763590aa2927549679465f3"
+  },
+  {
+    "path": "texdb/txd/txd.pvr.toc",
+    "md5": "29113cdb5f9c45f57b9919d339b0ec11"
+  },
+  {
+    "path": "texdb/txd/txd.txt",
+    "md5": "503db74613d7d22728e6349aaa2f13c0"
+  },
+  {
+    "path": "texdb/txd/txd.unc.tmb",
+    "md5": "abdf262fdbb8b55fd210b3b795eb15a1"
+  }
+]
